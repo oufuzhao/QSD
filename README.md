@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification
 
 ## Description
@@ -37,3 +38,6 @@ If you find this code useful in your research, please consider citing us:
     doi={10.1109/TMM.2024.3358697}
 }
 ```
+=======
+Testing
+>>>>>>> f0128ecef28c7f4f5376df2ee4f3365ca8a004b7

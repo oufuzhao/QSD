@@ -15,7 +15,7 @@ The code is built on the PyTorch framework, and the explicit environment configu
 ## Training
 1. **Dataset**: Please contact the creator of the relevant data set to obtain the right to use it. For the CUHK03 dataset, you may need to convert the ".mat" to ".png".
 2. **Quality Annotations**: Obtain the quality annotations via [the code](https://github.com/Tencent/TFace/tree/quality/generate_pseudo_labels).
-3. **Baseline Model**: The baseline AGW model can be downloaded from the [official repository](https://drive.google.com/file/d/1Uyq_JBM2N1JL-buYWkLZFMd7N-eMjOUZ/view)
+3. **Baseline Model**: The baseline AGW model can be downloaded from the official [Google Disk](https://drive.google.com/file/d/1Uyq_JBM2N1JL-buYWkLZFMd7N-eMjOUZ/view)
 4. **QSD processing**: a). Modify the 'PRETRAIN_PATH' and 'QA_LABELS' parameters in the configuration file './configs/AGW_QSD.yml'; b). Run './main.py' to train the QSD model, where we also provide the training log in './log/log.txt' for your information. 
 
 ## Inference
@@ -27,13 +27,13 @@ The code is built on the PyTorch framework, and the explicit environment configu
 If you find this code useful in your research, please consider citing us:
 ```
 @ARTICLE{QSD2024,
-    author    = {Ou, Fu-Zhao and Chen, Xingyu and Zhao, Kai and Wang, Shiqi and Wang, Yuan-Gen and Kwong, Sam},
-    title     = {Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification},
-    journal = {IEEE Transactions on Multimedia (TMM)},
-    year      = {2024},
+    author={Ou, Fu-Zhao and Chen, Xingyu and Zhao, Kai and Wang, Shiqi and Wang, Yuan-Gen and Kwong, Sam},
+    title={Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification},
+    journal={IEEE Transactions on Multimedia (TMM)},
     volume={},
     number={},
     pages={1-15},
+    year={2024},
     doi={10.1109/TMM.2024.3358697}
 }
 ```

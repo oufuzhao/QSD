@@ -1,0 +1,702 @@
+2024-01-31 13:13:22,801 Re-ID INFO: ===> Baseline Testing
+2024-01-31 13:13:32,080 Re-ID INFO: Rank-1: 64.6%
+2024-01-31 13:13:32,080 Re-ID INFO: mAP: 62.2%
+2024-01-31 13:13:32,080 Re-ID INFO: mINP: 50.0%
+2024-01-31 13:13:32,080 Re-ID INFO: 64.6%	62.2%	50.0%
+2024-01-31 13:13:32,081 Re-ID INFO: Start training
+2024-01-31 13:13:39,595 Re-ID INFO: Epoch[111] Iteration[20/93] Loss: 2.713, CLS_Loss: 2.245, QSD_Loss: 0.468, Acc: 1.000, LR: 3.82e-07
+2024-01-31 13:13:44,986 Re-ID INFO: Epoch[111] Iteration[40/93] Loss: 2.700, CLS_Loss: 2.230, QSD_Loss: 0.470, Acc: 1.000, LR: 3.82e-07
+2024-01-31 13:13:50,363 Re-ID INFO: Epoch[111] Iteration[60/93] Loss: 2.684, CLS_Loss: 2.211, QSD_Loss: 0.473, Acc: 1.000, LR: 3.82e-07
+2024-01-31 13:13:55,746 Re-ID INFO: Epoch[111] Iteration[80/93] Loss: 2.666, CLS_Loss: 2.192, QSD_Loss: 0.474, Acc: 1.000, LR: 3.82e-07
+2024-01-31 13:14:01,489 Re-ID INFO: Epoch 111 done. Time per batch: 26.579[s] Speed: 226.3[samples/s]
+2024-01-31 13:14:01,489 Re-ID INFO: ----------
+2024-01-31 13:14:06,586 Re-ID INFO: Epoch[112] Iteration[20/93] Loss: 2.433, CLS_Loss: 1.962, QSD_Loss: 0.471, Acc: 1.000, LR: 7.28e-07
+2024-01-31 13:14:11,917 Re-ID INFO: Epoch[112] Iteration[40/93] Loss: 2.426, CLS_Loss: 1.955, QSD_Loss: 0.471, Acc: 1.000, LR: 7.28e-07
+2024-01-31 13:14:17,289 Re-ID INFO: Epoch[112] Iteration[60/93] Loss: 2.416, CLS_Loss: 1.943, QSD_Loss: 0.472, Acc: 1.000, LR: 7.28e-07
+2024-01-31 13:14:22,659 Re-ID INFO: Epoch[112] Iteration[80/93] Loss: 2.401, CLS_Loss: 1.928, QSD_Loss: 0.474, Acc: 1.000, LR: 7.28e-07
+2024-01-31 13:14:28,568 Re-ID INFO: Epoch 112 done. Time per batch: 24.355[s] Speed: 247.0[samples/s]
+2024-01-31 13:14:28,568 Re-ID INFO: ----------
+2024-01-31 13:14:33,428 Re-ID INFO: Epoch[113] Iteration[20/93] Loss: 2.199, CLS_Loss: 1.745, QSD_Loss: 0.454, Acc: 1.000, LR: 1.07e-06
+2024-01-31 13:14:38,821 Re-ID INFO: Epoch[113] Iteration[40/93] Loss: 2.201, CLS_Loss: 1.742, QSD_Loss: 0.459, Acc: 1.000, LR: 1.07e-06
+2024-01-31 13:14:44,212 Re-ID INFO: Epoch[113] Iteration[60/93] Loss: 2.196, CLS_Loss: 1.733, QSD_Loss: 0.462, Acc: 1.000, LR: 1.07e-06
+2024-01-31 13:14:49,607 Re-ID INFO: Epoch[113] Iteration[80/93] Loss: 2.193, CLS_Loss: 1.724, QSD_Loss: 0.469, Acc: 1.000, LR: 1.07e-06
+2024-01-31 13:14:55,814 Re-ID INFO: Epoch 113 done. Time per batch: 24.457[s] Speed: 246.0[samples/s]
+2024-01-31 13:14:55,814 Re-ID INFO: ----------
+2024-01-31 13:15:00,412 Re-ID INFO: Epoch[114] Iteration[20/93] Loss: 2.090, CLS_Loss: 1.606, QSD_Loss: 0.484, Acc: 1.000, LR: 1.42e-06
+2024-01-31 13:15:05,833 Re-ID INFO: Epoch[114] Iteration[40/93] Loss: 2.077, CLS_Loss: 1.600, QSD_Loss: 0.477, Acc: 1.000, LR: 1.42e-06
+2024-01-31 13:15:11,235 Re-ID INFO: Epoch[114] Iteration[60/93] Loss: 2.057, CLS_Loss: 1.586, QSD_Loss: 0.471, Acc: 1.000, LR: 1.42e-06
+2024-01-31 13:15:16,645 Re-ID INFO: Epoch[114] Iteration[80/93] Loss: 2.046, CLS_Loss: 1.577, QSD_Loss: 0.469, Acc: 1.000, LR: 1.42e-06
+2024-01-31 13:15:23,126 Re-ID INFO: Epoch 114 done. Time per batch: 24.458[s] Speed: 246.0[samples/s]
+2024-01-31 13:15:23,127 Re-ID INFO: ----------
+2024-01-31 13:15:27,437 Re-ID INFO: Epoch[115] Iteration[20/93] Loss: 1.946, CLS_Loss: 1.487, QSD_Loss: 0.459, Acc: 1.000, LR: 1.77e-06
+2024-01-31 13:15:32,811 Re-ID INFO: Epoch[115] Iteration[40/93] Loss: 1.936, CLS_Loss: 1.478, QSD_Loss: 0.457, Acc: 1.000, LR: 1.77e-06
+2024-01-31 13:15:38,197 Re-ID INFO: Epoch[115] Iteration[60/93] Loss: 1.924, CLS_Loss: 1.469, QSD_Loss: 0.455, Acc: 1.000, LR: 1.77e-06
+2024-01-31 13:15:43,580 Re-ID INFO: Epoch[115] Iteration[80/93] Loss: 1.913, CLS_Loss: 1.461, QSD_Loss: 0.452, Acc: 1.000, LR: 1.77e-06
+2024-01-31 13:15:50,280 Re-ID INFO: Epoch 115 done. Time per batch: 24.396[s] Speed: 246.6[samples/s]
+2024-01-31 13:15:50,280 Re-ID INFO: ----------
+2024-01-31 13:15:57,682 Re-ID INFO: Rank-1: 64.0%
+2024-01-31 13:15:57,683 Re-ID INFO: mAP: 62.2%
+2024-01-31 13:15:57,684 Re-ID INFO: mINP: 50.2%
+2024-01-31 13:15:57,684 Re-ID INFO: 64.0%	62.2%	50.2%
+2024-01-31 13:15:57,684 Re-ID INFO: Avg ACC: 58.8%
+2024-01-31 13:15:57,684 Re-ID INFO: The best model
+2024-01-31 13:15:57,684 Re-ID INFO: /root/Re-ID-AGW/QSD/log/Best_Model.pth
+2024-01-31 13:15:57,685 Re-ID INFO: 64.0%	62.2%	50.2%
+2024-01-31 13:15:57,685 Re-ID INFO: Avg ACC: 58.8%
+2024-01-31 13:15:57,898 Re-ID INFO: ----------
+2024-01-31 13:16:01,991 Re-ID INFO: Epoch[116] Iteration[20/93] Loss: 1.849, CLS_Loss: 1.388, QSD_Loss: 0.461, Acc: 1.000, LR: 2.11e-06
+2024-01-31 13:16:07,408 Re-ID INFO: Epoch[116] Iteration[40/93] Loss: 1.839, CLS_Loss: 1.385, QSD_Loss: 0.454, Acc: 1.000, LR: 2.11e-06
+2024-01-31 13:16:12,834 Re-ID INFO: Epoch[116] Iteration[60/93] Loss: 1.826, CLS_Loss: 1.378, QSD_Loss: 0.448, Acc: 1.000, LR: 2.11e-06
+2024-01-31 13:16:18,260 Re-ID INFO: Epoch[116] Iteration[80/93] Loss: 1.816, CLS_Loss: 1.370, QSD_Loss: 0.446, Acc: 1.000, LR: 2.11e-06
+2024-01-31 13:16:25,271 Re-ID INFO: Epoch 116 done. Time per batch: 24.528[s] Speed: 245.3[samples/s]
+2024-01-31 13:16:25,271 Re-ID INFO: ----------
+2024-01-31 13:16:29,045 Re-ID INFO: Epoch[117] Iteration[20/93] Loss: 1.734, CLS_Loss: 1.302, QSD_Loss: 0.431, Acc: 1.000, LR: 2.46e-06
+2024-01-31 13:16:34,450 Re-ID INFO: Epoch[117] Iteration[40/93] Loss: 1.735, CLS_Loss: 1.304, QSD_Loss: 0.431, Acc: 1.000, LR: 2.46e-06
+2024-01-31 13:16:39,900 Re-ID INFO: Epoch[117] Iteration[60/93] Loss: 1.733, CLS_Loss: 1.303, QSD_Loss: 0.430, Acc: 1.000, LR: 2.46e-06
+2024-01-31 13:16:45,314 Re-ID INFO: Epoch[117] Iteration[80/93] Loss: 1.729, CLS_Loss: 1.301, QSD_Loss: 0.429, Acc: 1.000, LR: 2.46e-06
+2024-01-31 13:16:52,654 Re-ID INFO: Epoch 117 done. Time per batch: 24.503[s] Speed: 245.5[samples/s]
+2024-01-31 13:16:52,654 Re-ID INFO: ----------
+2024-01-31 13:16:56,179 Re-ID INFO: Epoch[118] Iteration[20/93] Loss: 1.680, CLS_Loss: 1.244, QSD_Loss: 0.436, Acc: 1.000, LR: 2.81e-06
+2024-01-31 13:17:01,611 Re-ID INFO: Epoch[118] Iteration[40/93] Loss: 1.682, CLS_Loss: 1.249, QSD_Loss: 0.433, Acc: 1.000, LR: 2.81e-06
+2024-01-31 13:17:07,046 Re-ID INFO: Epoch[118] Iteration[60/93] Loss: 1.678, CLS_Loss: 1.252, QSD_Loss: 0.426, Acc: 1.000, LR: 2.81e-06
+2024-01-31 13:17:12,475 Re-ID INFO: Epoch[118] Iteration[80/93] Loss: 1.672, CLS_Loss: 1.250, QSD_Loss: 0.422, Acc: 1.000, LR: 2.81e-06
+2024-01-31 13:17:20,147 Re-ID INFO: Epoch 118 done. Time per batch: 24.532[s] Speed: 245.2[samples/s]
+2024-01-31 13:17:20,147 Re-ID INFO: ----------
+2024-01-31 13:17:23,406 Re-ID INFO: Epoch[119] Iteration[20/93] Loss: 1.607, CLS_Loss: 1.207, QSD_Loss: 0.400, Acc: 1.000, LR: 3.15e-06
+2024-01-31 13:17:28,820 Re-ID INFO: Epoch[119] Iteration[40/93] Loss: 1.612, CLS_Loss: 1.210, QSD_Loss: 0.402, Acc: 1.000, LR: 3.15e-06
+2024-01-31 13:17:34,227 Re-ID INFO: Epoch[119] Iteration[60/93] Loss: 1.620, CLS_Loss: 1.215, QSD_Loss: 0.404, Acc: 1.000, LR: 3.15e-06
+2024-01-31 13:17:39,687 Re-ID INFO: Epoch[119] Iteration[80/93] Loss: 1.620, CLS_Loss: 1.215, QSD_Loss: 0.406, Acc: 1.000, LR: 3.15e-06
+2024-01-31 13:17:47,751 Re-ID INFO: Epoch 119 done. Time per batch: 24.528[s] Speed: 245.3[samples/s]
+2024-01-31 13:17:47,751 Re-ID INFO: ----------
+2024-01-31 13:17:50,730 Re-ID INFO: Epoch[120] Iteration[20/93] Loss: 1.596, CLS_Loss: 1.189, QSD_Loss: 0.407, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:17:56,128 Re-ID INFO: Epoch[120] Iteration[40/93] Loss: 1.592, CLS_Loss: 1.188, QSD_Loss: 0.404, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:18:01,551 Re-ID INFO: Epoch[120] Iteration[60/93] Loss: 1.591, CLS_Loss: 1.188, QSD_Loss: 0.403, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:18:06,955 Re-ID INFO: Epoch[120] Iteration[80/93] Loss: 1.589, CLS_Loss: 1.187, QSD_Loss: 0.402, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:18:15,055 Re-ID INFO: Epoch 120 done. Time per batch: 24.482[s] Speed: 245.7[samples/s]
+2024-01-31 13:18:15,056 Re-ID INFO: ----------
+2024-01-31 13:18:22,500 Re-ID INFO: Rank-1: 67.3%
+2024-01-31 13:18:22,502 Re-ID INFO: mAP: 65.5%
+2024-01-31 13:18:22,502 Re-ID INFO: mINP: 53.7%
+2024-01-31 13:18:22,502 Re-ID INFO: 67.3%	65.5%	53.7%
+2024-01-31 13:18:22,502 Re-ID INFO: Avg ACC: 62.1%
+2024-01-31 13:18:22,503 Re-ID INFO: The best model
+2024-01-31 13:18:22,503 Re-ID INFO: /root/Re-ID-AGW/QSD/log/Best_Model.pth
+2024-01-31 13:18:22,503 Re-ID INFO: 67.3%	65.5%	53.7%
+2024-01-31 13:18:22,503 Re-ID INFO: Avg ACC: 62.1%
+2024-01-31 13:18:22,800 Re-ID INFO: ----------
+2024-01-31 13:18:25,519 Re-ID INFO: Epoch[121] Iteration[20/93] Loss: 1.573, CLS_Loss: 1.179, QSD_Loss: 0.394, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:18:30,927 Re-ID INFO: Epoch[121] Iteration[40/93] Loss: 1.566, CLS_Loss: 1.172, QSD_Loss: 0.394, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:18:36,346 Re-ID INFO: Epoch[121] Iteration[60/93] Loss: 1.559, CLS_Loss: 1.169, QSD_Loss: 0.390, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:18:41,742 Re-ID INFO: Epoch[121] Iteration[80/93] Loss: 1.554, CLS_Loss: 1.165, QSD_Loss: 0.390, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:18:50,165 Re-ID INFO: Epoch 121 done. Time per batch: 24.471[s] Speed: 245.8[samples/s]
+2024-01-31 13:18:50,165 Re-ID INFO: ----------
+2024-01-31 13:18:52,581 Re-ID INFO: Epoch[122] Iteration[20/93] Loss: 1.553, CLS_Loss: 1.169, QSD_Loss: 0.384, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:18:57,997 Re-ID INFO: Epoch[122] Iteration[40/93] Loss: 1.544, CLS_Loss: 1.162, QSD_Loss: 0.382, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:19:03,387 Re-ID INFO: Epoch[122] Iteration[60/93] Loss: 1.535, CLS_Loss: 1.156, QSD_Loss: 0.379, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:19:08,786 Re-ID INFO: Epoch[122] Iteration[80/93] Loss: 1.529, CLS_Loss: 1.150, QSD_Loss: 0.379, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:19:17,537 Re-ID INFO: Epoch 122 done. Time per batch: 24.501[s] Speed: 245.5[samples/s]
+2024-01-31 13:19:17,537 Re-ID INFO: ----------
+2024-01-31 13:19:19,692 Re-ID INFO: Epoch[123] Iteration[20/93] Loss: 1.501, CLS_Loss: 1.136, QSD_Loss: 0.365, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:19:25,085 Re-ID INFO: Epoch[123] Iteration[40/93] Loss: 1.504, CLS_Loss: 1.136, QSD_Loss: 0.368, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:19:30,476 Re-ID INFO: Epoch[123] Iteration[60/93] Loss: 1.508, CLS_Loss: 1.136, QSD_Loss: 0.372, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:19:35,882 Re-ID INFO: Epoch[123] Iteration[80/93] Loss: 1.506, CLS_Loss: 1.132, QSD_Loss: 0.373, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:19:44,789 Re-ID INFO: Epoch 123 done. Time per batch: 24.422[s] Speed: 246.3[samples/s]
+2024-01-31 13:19:44,789 Re-ID INFO: ----------
+2024-01-31 13:19:46,677 Re-ID INFO: Epoch[124] Iteration[20/93] Loss: 1.482, CLS_Loss: 1.125, QSD_Loss: 0.358, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:19:52,088 Re-ID INFO: Epoch[124] Iteration[40/93] Loss: 1.487, CLS_Loss: 1.125, QSD_Loss: 0.362, Acc: 0.999, LR: 3.50e-06
+2024-01-31 13:19:57,488 Re-ID INFO: Epoch[124] Iteration[60/93] Loss: 1.489, CLS_Loss: 1.124, QSD_Loss: 0.364, Acc: 0.999, LR: 3.50e-06
+2024-01-31 13:20:02,902 Re-ID INFO: Epoch[124] Iteration[80/93] Loss: 1.487, CLS_Loss: 1.122, QSD_Loss: 0.365, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:20:12,206 Re-ID INFO: Epoch 124 done. Time per batch: 24.505[s] Speed: 245.5[samples/s]
+2024-01-31 13:20:12,206 Re-ID INFO: ----------
+2024-01-31 13:20:13,841 Re-ID INFO: Epoch[125] Iteration[20/93] Loss: 1.454, CLS_Loss: 1.089, QSD_Loss: 0.366, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:20:19,284 Re-ID INFO: Epoch[125] Iteration[40/93] Loss: 1.457, CLS_Loss: 1.094, QSD_Loss: 0.363, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:20:24,730 Re-ID INFO: Epoch[125] Iteration[60/93] Loss: 1.464, CLS_Loss: 1.099, QSD_Loss: 0.365, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:20:30,155 Re-ID INFO: Epoch[125] Iteration[80/93] Loss: 1.463, CLS_Loss: 1.099, QSD_Loss: 0.364, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:20:39,660 Re-ID INFO: Epoch 125 done. Time per batch: 24.519[s] Speed: 245.4[samples/s]
+2024-01-31 13:20:39,661 Re-ID INFO: ----------
+2024-01-31 13:20:46,924 Re-ID INFO: Rank-1: 70.1%
+2024-01-31 13:20:46,925 Re-ID INFO: mAP: 67.5%
+2024-01-31 13:20:46,925 Re-ID INFO: mINP: 55.8%
+2024-01-31 13:20:46,926 Re-ID INFO: 70.1%	67.5%	55.8%
+2024-01-31 13:20:46,926 Re-ID INFO: Avg ACC: 64.4%
+2024-01-31 13:20:46,926 Re-ID INFO: The best model
+2024-01-31 13:20:46,926 Re-ID INFO: /root/Re-ID-AGW/QSD/log/Best_Model.pth
+2024-01-31 13:20:46,926 Re-ID INFO: 70.1%	67.5%	55.8%
+2024-01-31 13:20:46,926 Re-ID INFO: Avg ACC: 64.4%
+2024-01-31 13:20:47,193 Re-ID INFO: ----------
+2024-01-31 13:20:48,564 Re-ID INFO: Epoch[126] Iteration[20/93] Loss: 1.442, CLS_Loss: 1.090, QSD_Loss: 0.352, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:20:54,020 Re-ID INFO: Epoch[126] Iteration[40/93] Loss: 1.442, CLS_Loss: 1.093, QSD_Loss: 0.349, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:20:59,509 Re-ID INFO: Epoch[126] Iteration[60/93] Loss: 1.448, CLS_Loss: 1.097, QSD_Loss: 0.351, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:21:04,943 Re-ID INFO: Epoch[126] Iteration[80/93] Loss: 1.452, CLS_Loss: 1.097, QSD_Loss: 0.355, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:21:14,716 Re-ID INFO: Epoch 126 done. Time per batch: 24.583[s] Speed: 244.7[samples/s]
+2024-01-31 13:21:14,717 Re-ID INFO: ----------
+2024-01-31 13:21:15,805 Re-ID INFO: Epoch[127] Iteration[20/93] Loss: 1.483, CLS_Loss: 1.095, QSD_Loss: 0.387, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:21:21,234 Re-ID INFO: Epoch[127] Iteration[40/93] Loss: 1.472, CLS_Loss: 1.097, QSD_Loss: 0.375, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:21:26,645 Re-ID INFO: Epoch[127] Iteration[60/93] Loss: 1.465, CLS_Loss: 1.099, QSD_Loss: 0.366, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:21:32,063 Re-ID INFO: Epoch[127] Iteration[80/93] Loss: 1.459, CLS_Loss: 1.097, QSD_Loss: 0.361, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:21:42,133 Re-ID INFO: Epoch 127 done. Time per batch: 24.499[s] Speed: 245.6[samples/s]
+2024-01-31 13:21:42,133 Re-ID INFO: ----------
+2024-01-31 13:21:42,954 Re-ID INFO: Epoch[128] Iteration[20/93] Loss: 1.443, CLS_Loss: 1.085, QSD_Loss: 0.358, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:21:48,378 Re-ID INFO: Epoch[128] Iteration[40/93] Loss: 1.440, CLS_Loss: 1.088, QSD_Loss: 0.352, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:21:53,791 Re-ID INFO: Epoch[128] Iteration[60/93] Loss: 1.438, CLS_Loss: 1.088, QSD_Loss: 0.351, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:21:59,207 Re-ID INFO: Epoch[128] Iteration[80/93] Loss: 1.439, CLS_Loss: 1.089, QSD_Loss: 0.350, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:22:09,531 Re-ID INFO: Epoch 128 done. Time per batch: 24.478[s] Speed: 245.8[samples/s]
+2024-01-31 13:22:09,532 Re-ID INFO: ----------
+2024-01-31 13:22:10,078 Re-ID INFO: Epoch[129] Iteration[20/93] Loss: 1.465, CLS_Loss: 1.108, QSD_Loss: 0.357, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:22:15,527 Re-ID INFO: Epoch[129] Iteration[40/93] Loss: 1.457, CLS_Loss: 1.103, QSD_Loss: 0.354, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:22:20,959 Re-ID INFO: Epoch[129] Iteration[60/93] Loss: 1.447, CLS_Loss: 1.098, QSD_Loss: 0.350, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:22:26,361 Re-ID INFO: Epoch[129] Iteration[80/93] Loss: 1.444, CLS_Loss: 1.096, QSD_Loss: 0.348, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:22:37,229 Re-ID INFO: Epoch 129 done. Time per batch: 24.595[s] Speed: 244.6[samples/s]
+2024-01-31 13:22:37,229 Re-ID INFO: ----------
+2024-01-31 13:22:37,508 Re-ID INFO: Epoch[130] Iteration[20/93] Loss: 1.420, CLS_Loss: 1.101, QSD_Loss: 0.319, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:22:43,040 Re-ID INFO: Epoch[130] Iteration[40/93] Loss: 1.425, CLS_Loss: 1.098, QSD_Loss: 0.327, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:22:48,455 Re-ID INFO: Epoch[130] Iteration[60/93] Loss: 1.420, CLS_Loss: 1.093, QSD_Loss: 0.328, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:22:53,870 Re-ID INFO: Epoch[130] Iteration[80/93] Loss: 1.424, CLS_Loss: 1.091, QSD_Loss: 0.333, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:23:04,282 Re-ID INFO: Epoch[130] Iteration[20/93] Loss: 1.425, CLS_Loss: 1.090, QSD_Loss: 0.335, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:23:04,904 Re-ID INFO: Epoch 130 done. Time per batch: 24.614[s] Speed: 244.4[samples/s]
+2024-01-31 13:23:04,904 Re-ID INFO: ----------
+2024-01-31 13:23:12,231 Re-ID INFO: Rank-1: 70.2%
+2024-01-31 13:23:12,232 Re-ID INFO: mAP: 68.0%
+2024-01-31 13:23:12,233 Re-ID INFO: mINP: 56.6%
+2024-01-31 13:23:12,233 Re-ID INFO: 70.2%	68.0%	56.6%
+2024-01-31 13:23:12,233 Re-ID INFO: Avg ACC: 64.9%
+2024-01-31 13:23:12,233 Re-ID INFO: The best model
+2024-01-31 13:23:12,233 Re-ID INFO: /root/Re-ID-AGW/QSD/log/Best_Model.pth
+2024-01-31 13:23:12,233 Re-ID INFO: 70.2%	68.0%	56.6%
+2024-01-31 13:23:12,233 Re-ID INFO: Avg ACC: 64.9%
+2024-01-31 13:23:12,479 Re-ID INFO: ----------
+2024-01-31 13:23:17,882 Re-ID INFO: Epoch[131] Iteration[40/93] Loss: 1.431, CLS_Loss: 1.089, QSD_Loss: 0.342, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:23:23,278 Re-ID INFO: Epoch[131] Iteration[60/93] Loss: 1.427, CLS_Loss: 1.088, QSD_Loss: 0.339, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:23:28,674 Re-ID INFO: Epoch[131] Iteration[80/93] Loss: 1.427, CLS_Loss: 1.087, QSD_Loss: 0.340, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:23:39,051 Re-ID INFO: Epoch[131] Iteration[20/93] Loss: 1.421, CLS_Loss: 1.085, QSD_Loss: 0.336, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:23:39,911 Re-ID INFO: Epoch 131 done. Time per batch: 24.431[s] Speed: 246.2[samples/s]
+2024-01-31 13:23:39,911 Re-ID INFO: ----------
+2024-01-31 13:23:45,050 Re-ID INFO: Epoch[132] Iteration[40/93] Loss: 1.429, CLS_Loss: 1.086, QSD_Loss: 0.343, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:23:50,463 Re-ID INFO: Epoch[132] Iteration[60/93] Loss: 1.425, CLS_Loss: 1.087, QSD_Loss: 0.338, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:23:55,866 Re-ID INFO: Epoch[132] Iteration[80/93] Loss: 1.424, CLS_Loss: 1.087, QSD_Loss: 0.337, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:24:06,352 Re-ID INFO: Epoch[132] Iteration[20/93] Loss: 1.422, CLS_Loss: 1.088, QSD_Loss: 0.333, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:24:07,469 Re-ID INFO: Epoch 132 done. Time per batch: 24.503[s] Speed: 245.5[samples/s]
+2024-01-31 13:24:07,470 Re-ID INFO: ----------
+2024-01-31 13:24:12,343 Re-ID INFO: Epoch[133] Iteration[40/93] Loss: 1.394, CLS_Loss: 1.075, QSD_Loss: 0.319, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:24:17,740 Re-ID INFO: Epoch[133] Iteration[60/93] Loss: 1.395, CLS_Loss: 1.076, QSD_Loss: 0.319, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:24:23,143 Re-ID INFO: Epoch[133] Iteration[80/93] Loss: 1.400, CLS_Loss: 1.077, QSD_Loss: 0.323, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:24:33,461 Re-ID INFO: Epoch[133] Iteration[20/93] Loss: 1.398, CLS_Loss: 1.077, QSD_Loss: 0.321, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:24:34,879 Re-ID INFO: Epoch 133 done. Time per batch: 24.441[s] Speed: 246.1[samples/s]
+2024-01-31 13:24:34,879 Re-ID INFO: ----------
+2024-01-31 13:24:39,441 Re-ID INFO: Epoch[134] Iteration[40/93] Loss: 1.411, CLS_Loss: 1.086, QSD_Loss: 0.324, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:24:44,813 Re-ID INFO: Epoch[134] Iteration[60/93] Loss: 1.412, CLS_Loss: 1.085, QSD_Loss: 0.327, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:24:50,188 Re-ID INFO: Epoch[134] Iteration[80/93] Loss: 1.413, CLS_Loss: 1.085, QSD_Loss: 0.328, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:25:00,446 Re-ID INFO: Epoch[134] Iteration[20/93] Loss: 1.409, CLS_Loss: 1.083, QSD_Loss: 0.326, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:25:02,144 Re-ID INFO: Epoch 134 done. Time per batch: 24.389[s] Speed: 246.7[samples/s]
+2024-01-31 13:25:02,144 Re-ID INFO: ----------
+2024-01-31 13:25:06,469 Re-ID INFO: Epoch[135] Iteration[40/93] Loss: 1.433, CLS_Loss: 1.101, QSD_Loss: 0.332, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:25:11,884 Re-ID INFO: Epoch[135] Iteration[60/93] Loss: 1.421, CLS_Loss: 1.094, QSD_Loss: 0.327, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:25:17,314 Re-ID INFO: Epoch[135] Iteration[80/93] Loss: 1.413, CLS_Loss: 1.089, QSD_Loss: 0.325, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:25:27,630 Re-ID INFO: Epoch[135] Iteration[20/93] Loss: 1.406, CLS_Loss: 1.086, QSD_Loss: 0.321, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:25:29,522 Re-ID INFO: Epoch 135 done. Time per batch: 24.495[s] Speed: 245.6[samples/s]
+2024-01-31 13:25:29,523 Re-ID INFO: ----------
+2024-01-31 13:25:36,695 Re-ID INFO: Rank-1: 70.4%
+2024-01-31 13:25:36,696 Re-ID INFO: mAP: 68.2%
+2024-01-31 13:25:36,696 Re-ID INFO: mINP: 56.6%
+2024-01-31 13:25:36,696 Re-ID INFO: 70.4%	68.2%	56.6%
+2024-01-31 13:25:36,696 Re-ID INFO: Avg ACC: 65.1%
+2024-01-31 13:25:36,696 Re-ID INFO: The best model
+2024-01-31 13:25:36,696 Re-ID INFO: /root/Re-ID-AGW/QSD/log/Best_Model.pth
+2024-01-31 13:25:36,696 Re-ID INFO: 70.4%	68.2%	56.6%
+2024-01-31 13:25:36,696 Re-ID INFO: Avg ACC: 65.1%
+2024-01-31 13:25:36,944 Re-ID INFO: ----------
+2024-01-31 13:25:41,010 Re-ID INFO: Epoch[136] Iteration[40/93] Loss: 1.423, CLS_Loss: 1.097, QSD_Loss: 0.326, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:25:46,412 Re-ID INFO: Epoch[136] Iteration[60/93] Loss: 1.419, CLS_Loss: 1.092, QSD_Loss: 0.327, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:25:51,805 Re-ID INFO: Epoch[136] Iteration[80/93] Loss: 1.417, CLS_Loss: 1.089, QSD_Loss: 0.328, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:26:02,078 Re-ID INFO: Epoch[136] Iteration[20/93] Loss: 1.406, CLS_Loss: 1.083, QSD_Loss: 0.322, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:26:04,332 Re-ID INFO: Epoch 136 done. Time per batch: 24.469[s] Speed: 245.9[samples/s]
+2024-01-31 13:26:04,332 Re-ID INFO: ----------
+2024-01-31 13:26:08,106 Re-ID INFO: Epoch[137] Iteration[40/93] Loss: 1.410, CLS_Loss: 1.069, QSD_Loss: 0.341, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:26:13,516 Re-ID INFO: Epoch[137] Iteration[60/93] Loss: 1.404, CLS_Loss: 1.072, QSD_Loss: 0.332, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:26:18,924 Re-ID INFO: Epoch[137] Iteration[80/93] Loss: 1.401, CLS_Loss: 1.074, QSD_Loss: 0.327, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:26:29,206 Re-ID INFO: Epoch[137] Iteration[20/93] Loss: 1.402, CLS_Loss: 1.078, QSD_Loss: 0.324, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:26:31,697 Re-ID INFO: Epoch 137 done. Time per batch: 24.443[s] Speed: 246.1[samples/s]
+2024-01-31 13:26:31,697 Re-ID INFO: ----------
+2024-01-31 13:26:35,208 Re-ID INFO: Epoch[138] Iteration[40/93] Loss: 1.392, CLS_Loss: 1.072, QSD_Loss: 0.320, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:26:40,617 Re-ID INFO: Epoch[138] Iteration[60/93] Loss: 1.395, CLS_Loss: 1.076, QSD_Loss: 0.320, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:26:46,015 Re-ID INFO: Epoch[138] Iteration[80/93] Loss: 1.394, CLS_Loss: 1.076, QSD_Loss: 0.318, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:26:56,264 Re-ID INFO: Epoch[138] Iteration[20/93] Loss: 1.394, CLS_Loss: 1.079, QSD_Loss: 0.316, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:26:58,963 Re-ID INFO: Epoch 138 done. Time per batch: 24.454[s] Speed: 246.0[samples/s]
+2024-01-31 13:26:58,963 Re-ID INFO: ----------
+2024-01-31 13:27:02,232 Re-ID INFO: Epoch[139] Iteration[40/93] Loss: 1.398, CLS_Loss: 1.073, QSD_Loss: 0.325, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:27:07,625 Re-ID INFO: Epoch[139] Iteration[60/93] Loss: 1.396, CLS_Loss: 1.075, QSD_Loss: 0.321, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:27:13,008 Re-ID INFO: Epoch[139] Iteration[80/93] Loss: 1.392, CLS_Loss: 1.075, QSD_Loss: 0.318, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:27:23,315 Re-ID INFO: Epoch[139] Iteration[20/93] Loss: 1.389, CLS_Loss: 1.075, QSD_Loss: 0.314, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:27:26,311 Re-ID INFO: Epoch 139 done. Time per batch: 24.443[s] Speed: 246.1[samples/s]
+2024-01-31 13:27:26,311 Re-ID INFO: ----------
+2024-01-31 13:27:29,279 Re-ID INFO: Epoch[140] Iteration[40/93] Loss: 1.362, CLS_Loss: 1.067, QSD_Loss: 0.295, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:27:34,681 Re-ID INFO: Epoch[140] Iteration[60/93] Loss: 1.369, CLS_Loss: 1.071, QSD_Loss: 0.298, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:27:40,072 Re-ID INFO: Epoch[140] Iteration[80/93] Loss: 1.378, CLS_Loss: 1.074, QSD_Loss: 0.303, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:27:50,494 Re-ID INFO: Epoch[140] Iteration[20/93] Loss: 1.382, CLS_Loss: 1.076, QSD_Loss: 0.306, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:27:53,861 Re-ID INFO: Epoch 140 done. Time per batch: 24.464[s] Speed: 245.9[samples/s]
+2024-01-31 13:27:53,861 Re-ID INFO: ----------
+2024-01-31 13:28:01,315 Re-ID INFO: Rank-1: 70.5%
+2024-01-31 13:28:01,316 Re-ID INFO: mAP: 68.5%
+2024-01-31 13:28:01,316 Re-ID INFO: mINP: 57.3%
+2024-01-31 13:28:01,316 Re-ID INFO: 70.5%	68.5%	57.3%
+2024-01-31 13:28:01,317 Re-ID INFO: Avg ACC: 65.4%
+2024-01-31 13:28:01,317 Re-ID INFO: The best model
+2024-01-31 13:28:01,317 Re-ID INFO: /root/Re-ID-AGW/QSD/log/Best_Model.pth
+2024-01-31 13:28:01,317 Re-ID INFO: 70.5%	68.5%	57.3%
+2024-01-31 13:28:01,317 Re-ID INFO: Avg ACC: 65.4%
+2024-01-31 13:28:01,572 Re-ID INFO: ----------
+2024-01-31 13:28:04,277 Re-ID INFO: Epoch[141] Iteration[40/93] Loss: 1.449, CLS_Loss: 1.111, QSD_Loss: 0.339, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:28:09,669 Re-ID INFO: Epoch[141] Iteration[60/93] Loss: 1.425, CLS_Loss: 1.098, QSD_Loss: 0.327, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:28:15,068 Re-ID INFO: Epoch[141] Iteration[80/93] Loss: 1.412, CLS_Loss: 1.092, QSD_Loss: 0.320, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:28:25,504 Re-ID INFO: Epoch[141] Iteration[20/93] Loss: 1.401, CLS_Loss: 1.087, QSD_Loss: 0.314, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:28:29,087 Re-ID INFO: Epoch 141 done. Time per batch: 24.468[s] Speed: 245.9[samples/s]
+2024-01-31 13:28:29,088 Re-ID INFO: ----------
+2024-01-31 13:28:31,540 Re-ID INFO: Epoch[142] Iteration[40/93] Loss: 1.374, CLS_Loss: 1.070, QSD_Loss: 0.305, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:28:36,967 Re-ID INFO: Epoch[142] Iteration[60/93] Loss: 1.378, CLS_Loss: 1.073, QSD_Loss: 0.305, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:28:42,401 Re-ID INFO: Epoch[142] Iteration[80/93] Loss: 1.381, CLS_Loss: 1.076, QSD_Loss: 0.305, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:28:52,777 Re-ID INFO: Epoch[142] Iteration[20/93] Loss: 1.382, CLS_Loss: 1.076, QSD_Loss: 0.306, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:28:56,672 Re-ID INFO: Epoch 142 done. Time per batch: 24.510[s] Speed: 245.5[samples/s]
+2024-01-31 13:28:56,673 Re-ID INFO: ----------
+2024-01-31 13:28:58,847 Re-ID INFO: Epoch[143] Iteration[40/93] Loss: 1.360, CLS_Loss: 1.079, QSD_Loss: 0.281, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:29:04,240 Re-ID INFO: Epoch[143] Iteration[60/93] Loss: 1.368, CLS_Loss: 1.079, QSD_Loss: 0.289, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:29:09,653 Re-ID INFO: Epoch[143] Iteration[80/93] Loss: 1.370, CLS_Loss: 1.077, QSD_Loss: 0.293, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:29:20,079 Re-ID INFO: Epoch[143] Iteration[20/93] Loss: 1.375, CLS_Loss: 1.077, QSD_Loss: 0.298, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:29:24,222 Re-ID INFO: Epoch 143 done. Time per batch: 24.474[s] Speed: 245.8[samples/s]
+2024-01-31 13:29:24,222 Re-ID INFO: ----------
+2024-01-31 13:29:26,106 Re-ID INFO: Epoch[144] Iteration[40/93] Loss: 1.365, CLS_Loss: 1.074, QSD_Loss: 0.291, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:29:31,496 Re-ID INFO: Epoch[144] Iteration[60/93] Loss: 1.366, CLS_Loss: 1.074, QSD_Loss: 0.292, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:29:36,910 Re-ID INFO: Epoch[144] Iteration[80/93] Loss: 1.366, CLS_Loss: 1.073, QSD_Loss: 0.293, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:29:47,217 Re-ID INFO: Epoch[144] Iteration[20/93] Loss: 1.372, CLS_Loss: 1.076, QSD_Loss: 0.297, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:29:51,739 Re-ID INFO: Epoch 144 done. Time per batch: 24.455[s] Speed: 246.0[samples/s]
+2024-01-31 13:29:51,740 Re-ID INFO: ----------
+2024-01-31 13:29:53,360 Re-ID INFO: Epoch[145] Iteration[40/93] Loss: 1.362, CLS_Loss: 1.092, QSD_Loss: 0.270, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:29:58,765 Re-ID INFO: Epoch[145] Iteration[60/93] Loss: 1.367, CLS_Loss: 1.086, QSD_Loss: 0.281, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:30:04,174 Re-ID INFO: Epoch[145] Iteration[80/93] Loss: 1.372, CLS_Loss: 1.084, QSD_Loss: 0.287, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:30:14,447 Re-ID INFO: Epoch[145] Iteration[20/93] Loss: 1.371, CLS_Loss: 1.081, QSD_Loss: 0.290, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:30:19,078 Re-ID INFO: Epoch 145 done. Time per batch: 24.481[s] Speed: 245.7[samples/s]
+2024-01-31 13:30:19,078 Re-ID INFO: ----------
+2024-01-31 13:30:26,466 Re-ID INFO: Rank-1: 70.9%
+2024-01-31 13:30:26,467 Re-ID INFO: mAP: 68.4%
+2024-01-31 13:30:26,467 Re-ID INFO: mINP: 57.1%
+2024-01-31 13:30:26,467 Re-ID INFO: 70.9%	68.4%	57.1%
+2024-01-31 13:30:26,467 Re-ID INFO: Avg ACC: 65.5%
+2024-01-31 13:30:26,467 Re-ID INFO: The best model
+2024-01-31 13:30:26,467 Re-ID INFO: /root/Re-ID-AGW/QSD/log/Best_Model.pth
+2024-01-31 13:30:26,467 Re-ID INFO: 70.9%	68.4%	57.1%
+2024-01-31 13:30:26,467 Re-ID INFO: Avg ACC: 65.5%
+2024-01-31 13:30:26,707 Re-ID INFO: ----------
+2024-01-31 13:30:28,073 Re-ID INFO: Epoch[146] Iteration[40/93] Loss: 1.317, CLS_Loss: 1.057, QSD_Loss: 0.261, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:30:33,471 Re-ID INFO: Epoch[146] Iteration[60/93] Loss: 1.336, CLS_Loss: 1.063, QSD_Loss: 0.273, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:30:38,873 Re-ID INFO: Epoch[146] Iteration[80/93] Loss: 1.349, CLS_Loss: 1.068, QSD_Loss: 0.281, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:30:49,196 Re-ID INFO: Epoch[146] Iteration[20/93] Loss: 1.359, CLS_Loss: 1.072, QSD_Loss: 0.287, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:30:54,097 Re-ID INFO: Epoch 146 done. Time per batch: 24.432[s] Speed: 246.2[samples/s]
+2024-01-31 13:30:54,097 Re-ID INFO: ----------
+2024-01-31 13:30:55,181 Re-ID INFO: Epoch[147] Iteration[40/93] Loss: 1.348, CLS_Loss: 1.063, QSD_Loss: 0.285, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:31:00,589 Re-ID INFO: Epoch[147] Iteration[60/93] Loss: 1.350, CLS_Loss: 1.065, QSD_Loss: 0.284, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:31:05,985 Re-ID INFO: Epoch[147] Iteration[80/93] Loss: 1.359, CLS_Loss: 1.070, QSD_Loss: 0.289, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:31:16,301 Re-ID INFO: Epoch[147] Iteration[20/93] Loss: 1.368, CLS_Loss: 1.074, QSD_Loss: 0.295, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:31:21,491 Re-ID INFO: Epoch 147 done. Time per batch: 24.453[s] Speed: 246.0[samples/s]
+2024-01-31 13:31:21,491 Re-ID INFO: ----------
+2024-01-31 13:31:22,304 Re-ID INFO: Epoch[148] Iteration[40/93] Loss: 1.343, CLS_Loss: 1.058, QSD_Loss: 0.285, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:31:27,706 Re-ID INFO: Epoch[148] Iteration[60/93] Loss: 1.353, CLS_Loss: 1.065, QSD_Loss: 0.288, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:31:33,121 Re-ID INFO: Epoch[148] Iteration[80/93] Loss: 1.360, CLS_Loss: 1.069, QSD_Loss: 0.291, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:31:43,484 Re-ID INFO: Epoch[148] Iteration[20/93] Loss: 1.365, CLS_Loss: 1.072, QSD_Loss: 0.293, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:31:48,914 Re-ID INFO: Epoch 148 done. Time per batch: 24.483[s] Speed: 245.7[samples/s]
+2024-01-31 13:31:48,914 Re-ID INFO: ----------
+2024-01-31 13:31:49,453 Re-ID INFO: Epoch[149] Iteration[40/93] Loss: 1.398, CLS_Loss: 1.097, QSD_Loss: 0.301, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:31:54,827 Re-ID INFO: Epoch[149] Iteration[60/93] Loss: 1.389, CLS_Loss: 1.091, QSD_Loss: 0.298, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:32:00,226 Re-ID INFO: Epoch[149] Iteration[80/93] Loss: 1.384, CLS_Loss: 1.088, QSD_Loss: 0.296, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:32:10,554 Re-ID INFO: Epoch[149] Iteration[20/93] Loss: 1.373, CLS_Loss: 1.080, QSD_Loss: 0.293, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:32:16,192 Re-ID INFO: Epoch 149 done. Time per batch: 24.416[s] Speed: 246.4[samples/s]
+2024-01-31 13:32:16,192 Re-ID INFO: ----------
+2024-01-31 13:32:16,466 Re-ID INFO: Epoch[150] Iteration[40/93] Loss: 1.371, CLS_Loss: 1.074, QSD_Loss: 0.297, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:32:21,856 Re-ID INFO: Epoch[150] Iteration[60/93] Loss: 1.366, CLS_Loss: 1.074, QSD_Loss: 0.292, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:32:27,257 Re-ID INFO: Epoch[150] Iteration[80/93] Loss: 1.367, CLS_Loss: 1.075, QSD_Loss: 0.292, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:32:37,576 Re-ID INFO: Epoch[150] Iteration[20/93] Loss: 1.368, CLS_Loss: 1.076, QSD_Loss: 0.292, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:32:43,006 Re-ID INFO: Epoch[150] Iteration[40/93] Loss: 1.367, CLS_Loss: 1.076, QSD_Loss: 0.291, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:32:43,608 Re-ID INFO: Epoch 150 done. Time per batch: 24.454[s] Speed: 246.0[samples/s]
+2024-01-31 13:32:43,608 Re-ID INFO: ----------
+2024-01-31 13:32:50,889 Re-ID INFO: Rank-1: 71.4%
+2024-01-31 13:32:50,890 Re-ID INFO: mAP: 69.0%
+2024-01-31 13:32:50,890 Re-ID INFO: mINP: 57.8%
+2024-01-31 13:32:50,890 Re-ID INFO: 71.4%	69.0%	57.8%
+2024-01-31 13:32:50,890 Re-ID INFO: Avg ACC: 66.1%
+2024-01-31 13:32:50,890 Re-ID INFO: The best model
+2024-01-31 13:32:50,891 Re-ID INFO: /root/Re-ID-AGW/QSD/log/Best_Model.pth
+2024-01-31 13:32:50,891 Re-ID INFO: 71.4%	69.0%	57.8%
+2024-01-31 13:32:50,891 Re-ID INFO: Avg ACC: 66.1%
+2024-01-31 13:32:51,130 Re-ID INFO: ----------
+2024-01-31 13:32:56,549 Re-ID INFO: Epoch[151] Iteration[60/93] Loss: 1.365, CLS_Loss: 1.068, QSD_Loss: 0.296, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:33:01,928 Re-ID INFO: Epoch[151] Iteration[80/93] Loss: 1.364, CLS_Loss: 1.072, QSD_Loss: 0.292, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:33:12,302 Re-ID INFO: Epoch[151] Iteration[20/93] Loss: 1.364, CLS_Loss: 1.074, QSD_Loss: 0.290, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:33:17,680 Re-ID INFO: Epoch[151] Iteration[40/93] Loss: 1.363, CLS_Loss: 1.074, QSD_Loss: 0.288, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:33:18,517 Re-ID INFO: Epoch 151 done. Time per batch: 24.416[s] Speed: 246.4[samples/s]
+2024-01-31 13:33:18,518 Re-ID INFO: ----------
+2024-01-31 13:33:23,627 Re-ID INFO: Epoch[152] Iteration[60/93] Loss: 1.381, CLS_Loss: 1.082, QSD_Loss: 0.300, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:33:29,023 Re-ID INFO: Epoch[152] Iteration[80/93] Loss: 1.380, CLS_Loss: 1.081, QSD_Loss: 0.299, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:33:39,336 Re-ID INFO: Epoch[152] Iteration[20/93] Loss: 1.371, CLS_Loss: 1.079, QSD_Loss: 0.291, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:33:44,723 Re-ID INFO: Epoch[152] Iteration[40/93] Loss: 1.367, CLS_Loss: 1.079, QSD_Loss: 0.289, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:33:45,885 Re-ID INFO: Epoch 152 done. Time per batch: 24.403[s] Speed: 246.5[samples/s]
+2024-01-31 13:33:45,886 Re-ID INFO: ----------
+2024-01-31 13:33:50,754 Re-ID INFO: Epoch[153] Iteration[60/93] Loss: 1.363, CLS_Loss: 1.069, QSD_Loss: 0.294, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:33:56,161 Re-ID INFO: Epoch[153] Iteration[80/93] Loss: 1.359, CLS_Loss: 1.070, QSD_Loss: 0.289, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:34:06,530 Re-ID INFO: Epoch[153] Iteration[20/93] Loss: 1.359, CLS_Loss: 1.073, QSD_Loss: 0.287, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:34:11,925 Re-ID INFO: Epoch[153] Iteration[40/93] Loss: 1.359, CLS_Loss: 1.073, QSD_Loss: 0.285, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:34:13,254 Re-ID INFO: Epoch 153 done. Time per batch: 24.459[s] Speed: 246.0[samples/s]
+2024-01-31 13:34:13,254 Re-ID INFO: ----------
+2024-01-31 13:34:17,838 Re-ID INFO: Epoch[154] Iteration[60/93] Loss: 1.352, CLS_Loss: 1.066, QSD_Loss: 0.286, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:34:23,248 Re-ID INFO: Epoch[154] Iteration[80/93] Loss: 1.355, CLS_Loss: 1.071, QSD_Loss: 0.285, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:34:33,675 Re-ID INFO: Epoch[154] Iteration[20/93] Loss: 1.358, CLS_Loss: 1.074, QSD_Loss: 0.284, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:34:39,063 Re-ID INFO: Epoch[154] Iteration[40/93] Loss: 1.360, CLS_Loss: 1.075, QSD_Loss: 0.285, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:34:40,725 Re-ID INFO: Epoch 154 done. Time per batch: 24.432[s] Speed: 246.2[samples/s]
+2024-01-31 13:34:40,725 Re-ID INFO: ----------
+2024-01-31 13:34:45,050 Re-ID INFO: Epoch[155] Iteration[60/93] Loss: 1.350, CLS_Loss: 1.080, QSD_Loss: 0.270, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:34:50,431 Re-ID INFO: Epoch[155] Iteration[80/93] Loss: 1.352, CLS_Loss: 1.078, QSD_Loss: 0.273, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:35:00,659 Re-ID INFO: Epoch[155] Iteration[20/93] Loss: 1.356, CLS_Loss: 1.078, QSD_Loss: 0.278, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:35:06,079 Re-ID INFO: Epoch[155] Iteration[40/93] Loss: 1.358, CLS_Loss: 1.078, QSD_Loss: 0.280, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:35:08,033 Re-ID INFO: Epoch 155 done. Time per batch: 24.443[s] Speed: 246.1[samples/s]
+2024-01-31 13:35:08,033 Re-ID INFO: ----------
+2024-01-31 13:35:15,351 Re-ID INFO: Rank-1: 71.1%
+2024-01-31 13:35:15,352 Re-ID INFO: mAP: 68.9%
+2024-01-31 13:35:15,352 Re-ID INFO: mINP: 57.9%
+2024-01-31 13:35:15,352 Re-ID INFO: 71.1%	68.9%	57.9%
+2024-01-31 13:35:15,352 Re-ID INFO: Avg ACC: 66.0%
+2024-01-31 13:35:15,352 Re-ID INFO: ----------
+2024-01-31 13:35:19,407 Re-ID INFO: Epoch[156] Iteration[60/93] Loss: 1.371, CLS_Loss: 1.080, QSD_Loss: 0.291, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:35:24,806 Re-ID INFO: Epoch[156] Iteration[80/93] Loss: 1.367, CLS_Loss: 1.078, QSD_Loss: 0.288, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:35:35,143 Re-ID INFO: Epoch[156] Iteration[20/93] Loss: 1.362, CLS_Loss: 1.078, QSD_Loss: 0.284, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:35:40,531 Re-ID INFO: Epoch[156] Iteration[40/93] Loss: 1.361, CLS_Loss: 1.078, QSD_Loss: 0.283, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:35:42,831 Re-ID INFO: Epoch 156 done. Time per batch: 24.457[s] Speed: 246.0[samples/s]
+2024-01-31 13:35:42,831 Re-ID INFO: ----------
+2024-01-31 13:35:46,612 Re-ID INFO: Epoch[157] Iteration[60/93] Loss: 1.333, CLS_Loss: 1.061, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:35:52,007 Re-ID INFO: Epoch[157] Iteration[80/93] Loss: 1.339, CLS_Loss: 1.065, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:36:02,244 Re-ID INFO: Epoch[157] Iteration[20/93] Loss: 1.344, CLS_Loss: 1.069, QSD_Loss: 0.275, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:36:07,636 Re-ID INFO: Epoch[157] Iteration[40/93] Loss: 1.346, CLS_Loss: 1.072, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:36:10,138 Re-ID INFO: Epoch 157 done. Time per batch: 24.432[s] Speed: 246.2[samples/s]
+2024-01-31 13:36:10,138 Re-ID INFO: ----------
+2024-01-31 13:36:13,641 Re-ID INFO: Epoch[158] Iteration[60/93] Loss: 1.356, CLS_Loss: 1.091, QSD_Loss: 0.265, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:36:19,040 Re-ID INFO: Epoch[158] Iteration[80/93] Loss: 1.352, CLS_Loss: 1.085, QSD_Loss: 0.267, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:36:29,218 Re-ID INFO: Epoch[158] Iteration[20/93] Loss: 1.350, CLS_Loss: 1.079, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:36:34,591 Re-ID INFO: Epoch[158] Iteration[40/93] Loss: 1.346, CLS_Loss: 1.076, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:36:37,437 Re-ID INFO: Epoch 158 done. Time per batch: 24.404[s] Speed: 246.5[samples/s]
+2024-01-31 13:36:37,437 Re-ID INFO: ----------
+2024-01-31 13:36:40,688 Re-ID INFO: Epoch[159] Iteration[60/93] Loss: 1.365, CLS_Loss: 1.071, QSD_Loss: 0.294, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:36:46,083 Re-ID INFO: Epoch[159] Iteration[80/93] Loss: 1.362, CLS_Loss: 1.073, QSD_Loss: 0.289, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:36:56,330 Re-ID INFO: Epoch[159] Iteration[20/93] Loss: 1.362, CLS_Loss: 1.077, QSD_Loss: 0.284, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:37:01,762 Re-ID INFO: Epoch[159] Iteration[40/93] Loss: 1.360, CLS_Loss: 1.076, QSD_Loss: 0.284, Acc: 1.000, LR: 3.50e-06
+2024-01-31 13:37:04,843 Re-ID INFO: Epoch 159 done. Time per batch: 24.473[s] Speed: 245.8[samples/s]
+2024-01-31 13:37:04,843 Re-ID INFO: ----------
+2024-01-31 13:37:07,832 Re-ID INFO: Epoch[160] Iteration[60/93] Loss: 1.355, CLS_Loss: 1.085, QSD_Loss: 0.270, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:37:13,270 Re-ID INFO: Epoch[160] Iteration[80/93] Loss: 1.349, CLS_Loss: 1.079, QSD_Loss: 0.270, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:37:23,610 Re-ID INFO: Epoch[160] Iteration[20/93] Loss: 1.347, CLS_Loss: 1.077, QSD_Loss: 0.270, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:37:29,005 Re-ID INFO: Epoch[160] Iteration[40/93] Loss: 1.351, CLS_Loss: 1.077, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:37:32,291 Re-ID INFO: Epoch 160 done. Time per batch: 24.483[s] Speed: 245.7[samples/s]
+2024-01-31 13:37:32,291 Re-ID INFO: ----------
+2024-01-31 13:37:39,579 Re-ID INFO: Rank-1: 71.6%
+2024-01-31 13:37:39,579 Re-ID INFO: mAP: 69.0%
+2024-01-31 13:37:39,580 Re-ID INFO: mINP: 57.9%
+2024-01-31 13:37:39,580 Re-ID INFO: 71.6%	69.0%	57.9%
+2024-01-31 13:37:39,580 Re-ID INFO: Avg ACC: 66.2%
+2024-01-31 13:37:39,580 Re-ID INFO: The best model
+2024-01-31 13:37:39,580 Re-ID INFO: /root/Re-ID-AGW/QSD/log/Best_Model.pth
+2024-01-31 13:37:39,581 Re-ID INFO: 71.6%	69.0%	57.9%
+2024-01-31 13:37:39,581 Re-ID INFO: Avg ACC: 66.2%
+2024-01-31 13:37:39,813 Re-ID INFO: ----------
+2024-01-31 13:37:42,540 Re-ID INFO: Epoch[161] Iteration[60/93] Loss: 1.374, CLS_Loss: 1.081, QSD_Loss: 0.294, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:37:47,967 Re-ID INFO: Epoch[161] Iteration[80/93] Loss: 1.367, CLS_Loss: 1.078, QSD_Loss: 0.289, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:37:58,318 Re-ID INFO: Epoch[161] Iteration[20/93] Loss: 1.353, CLS_Loss: 1.076, QSD_Loss: 0.278, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:38:03,730 Re-ID INFO: Epoch[161] Iteration[40/93] Loss: 1.350, CLS_Loss: 1.074, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:38:07,305 Re-ID INFO: Epoch 161 done. Time per batch: 24.509[s] Speed: 245.5[samples/s]
+2024-01-31 13:38:07,305 Re-ID INFO: ----------
+2024-01-31 13:38:09,729 Re-ID INFO: Epoch[162] Iteration[60/93] Loss: 1.346, CLS_Loss: 1.060, QSD_Loss: 0.286, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:38:15,117 Re-ID INFO: Epoch[162] Iteration[80/93] Loss: 1.346, CLS_Loss: 1.064, QSD_Loss: 0.281, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:38:25,473 Re-ID INFO: Epoch[162] Iteration[20/93] Loss: 1.346, CLS_Loss: 1.070, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:38:30,870 Re-ID INFO: Epoch[162] Iteration[40/93] Loss: 1.352, CLS_Loss: 1.073, QSD_Loss: 0.279, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:38:34,720 Re-ID INFO: Epoch 162 done. Time per batch: 24.411[s] Speed: 246.4[samples/s]
+2024-01-31 13:38:34,720 Re-ID INFO: ----------
+2024-01-31 13:38:36,874 Re-ID INFO: Epoch[163] Iteration[60/93] Loss: 1.335, CLS_Loss: 1.060, QSD_Loss: 0.275, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:38:42,256 Re-ID INFO: Epoch[163] Iteration[80/93] Loss: 1.340, CLS_Loss: 1.064, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:38:52,573 Re-ID INFO: Epoch[163] Iteration[20/93] Loss: 1.343, CLS_Loss: 1.069, QSD_Loss: 0.275, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:38:57,956 Re-ID INFO: Epoch[163] Iteration[40/93] Loss: 1.343, CLS_Loss: 1.070, QSD_Loss: 0.273, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:39:02,026 Re-ID INFO: Epoch 163 done. Time per batch: 24.414[s] Speed: 246.4[samples/s]
+2024-01-31 13:39:02,026 Re-ID INFO: ----------
+2024-01-31 13:39:03,918 Re-ID INFO: Epoch[164] Iteration[60/93] Loss: 1.340, CLS_Loss: 1.067, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:39:09,329 Re-ID INFO: Epoch[164] Iteration[80/93] Loss: 1.345, CLS_Loss: 1.070, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:39:19,719 Re-ID INFO: Epoch[164] Iteration[20/93] Loss: 1.347, CLS_Loss: 1.072, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:39:25,114 Re-ID INFO: Epoch[164] Iteration[40/93] Loss: 1.347, CLS_Loss: 1.072, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:39:29,508 Re-ID INFO: Epoch 164 done. Time per batch: 24.462[s] Speed: 245.9[samples/s]
+2024-01-31 13:39:29,509 Re-ID INFO: ----------
+2024-01-31 13:39:31,138 Re-ID INFO: Epoch[165] Iteration[60/93] Loss: 1.368, CLS_Loss: 1.101, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:39:36,556 Re-ID INFO: Epoch[165] Iteration[80/93] Loss: 1.363, CLS_Loss: 1.092, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:39:46,950 Re-ID INFO: Epoch[165] Iteration[20/93] Loss: 1.357, CLS_Loss: 1.084, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:39:52,364 Re-ID INFO: Epoch[165] Iteration[40/93] Loss: 1.355, CLS_Loss: 1.081, QSD_Loss: 0.273, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:39:56,997 Re-ID INFO: Epoch 165 done. Time per batch: 24.520[s] Speed: 245.4[samples/s]
+2024-01-31 13:39:56,997 Re-ID INFO: ----------
+2024-01-31 13:40:04,282 Re-ID INFO: Rank-1: 70.6%
+2024-01-31 13:40:04,284 Re-ID INFO: mAP: 68.6%
+2024-01-31 13:40:04,284 Re-ID INFO: mINP: 57.7%
+2024-01-31 13:40:04,284 Re-ID INFO: 70.6%	68.6%	57.7%
+2024-01-31 13:40:04,285 Re-ID INFO: Avg ACC: 65.6%
+2024-01-31 13:40:04,285 Re-ID INFO: ----------
+2024-01-31 13:40:05,646 Re-ID INFO: Epoch[166] Iteration[60/93] Loss: 1.351, CLS_Loss: 1.074, QSD_Loss: 0.278, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:40:11,116 Re-ID INFO: Epoch[166] Iteration[80/93] Loss: 1.352, CLS_Loss: 1.074, QSD_Loss: 0.278, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:40:21,505 Re-ID INFO: Epoch[166] Iteration[20/93] Loss: 1.351, CLS_Loss: 1.075, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:40:26,894 Re-ID INFO: Epoch[166] Iteration[40/93] Loss: 1.350, CLS_Loss: 1.075, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:40:31,809 Re-ID INFO: Epoch 166 done. Time per batch: 24.473[s] Speed: 245.8[samples/s]
+2024-01-31 13:40:31,809 Re-ID INFO: ----------
+2024-01-31 13:40:32,896 Re-ID INFO: Epoch[167] Iteration[60/93] Loss: 1.348, CLS_Loss: 1.069, QSD_Loss: 0.279, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:40:38,290 Re-ID INFO: Epoch[167] Iteration[80/93] Loss: 1.347, CLS_Loss: 1.070, QSD_Loss: 0.277, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:40:48,612 Re-ID INFO: Epoch[167] Iteration[20/93] Loss: 1.349, CLS_Loss: 1.073, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:40:54,015 Re-ID INFO: Epoch[167] Iteration[40/93] Loss: 1.349, CLS_Loss: 1.073, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:40:59,218 Re-ID INFO: Epoch 167 done. Time per batch: 24.469[s] Speed: 245.9[samples/s]
+2024-01-31 13:40:59,219 Re-ID INFO: ----------
+2024-01-31 13:41:00,028 Re-ID INFO: Epoch[168] Iteration[60/93] Loss: 1.344, CLS_Loss: 1.073, QSD_Loss: 0.271, Acc: 0.985, LR: 3.50e-07
+2024-01-31 13:41:05,424 Re-ID INFO: Epoch[168] Iteration[80/93] Loss: 1.346, CLS_Loss: 1.074, QSD_Loss: 0.273, Acc: 0.990, LR: 3.50e-07
+2024-01-31 13:41:15,756 Re-ID INFO: Epoch[168] Iteration[20/93] Loss: 1.348, CLS_Loss: 1.076, QSD_Loss: 0.273, Acc: 0.995, LR: 3.50e-07
+2024-01-31 13:41:21,210 Re-ID INFO: Epoch[168] Iteration[40/93] Loss: 1.347, CLS_Loss: 1.074, QSD_Loss: 0.273, Acc: 0.997, LR: 3.50e-07
+2024-01-31 13:41:26,691 Re-ID INFO: Epoch 168 done. Time per batch: 24.510[s] Speed: 245.4[samples/s]
+2024-01-31 13:41:26,691 Re-ID INFO: ----------
+2024-01-31 13:41:27,235 Re-ID INFO: Epoch[169] Iteration[60/93] Loss: 1.343, CLS_Loss: 1.079, QSD_Loss: 0.263, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:41:32,636 Re-ID INFO: Epoch[169] Iteration[80/93] Loss: 1.343, CLS_Loss: 1.077, QSD_Loss: 0.266, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:41:42,951 Re-ID INFO: Epoch[169] Iteration[20/93] Loss: 1.344, CLS_Loss: 1.074, QSD_Loss: 0.270, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:41:48,343 Re-ID INFO: Epoch[169] Iteration[40/93] Loss: 1.346, CLS_Loss: 1.074, QSD_Loss: 0.272, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:41:54,089 Re-ID INFO: Epoch 169 done. Time per batch: 24.437[s] Speed: 246.2[samples/s]
+2024-01-31 13:41:54,089 Re-ID INFO: ----------
+2024-01-31 13:41:54,367 Re-ID INFO: Epoch[170] Iteration[60/93] Loss: 1.401, CLS_Loss: 1.097, QSD_Loss: 0.303, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:41:59,772 Re-ID INFO: Epoch[170] Iteration[80/93] Loss: 1.383, CLS_Loss: 1.090, QSD_Loss: 0.293, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:42:10,088 Re-ID INFO: Epoch[170] Iteration[20/93] Loss: 1.361, CLS_Loss: 1.081, QSD_Loss: 0.280, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:42:15,472 Re-ID INFO: Epoch[170] Iteration[40/93] Loss: 1.355, CLS_Loss: 1.078, QSD_Loss: 0.277, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:42:20,869 Re-ID INFO: Epoch[170] Iteration[60/93] Loss: 1.353, CLS_Loss: 1.077, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:42:21,487 Re-ID INFO: Epoch 170 done. Time per batch: 24.451[s] Speed: 246.0[samples/s]
+2024-01-31 13:42:21,487 Re-ID INFO: ----------
+2024-01-31 13:42:28,727 Re-ID INFO: Rank-1: 71.4%
+2024-01-31 13:42:28,728 Re-ID INFO: mAP: 69.1%
+2024-01-31 13:42:28,728 Re-ID INFO: mINP: 58.1%
+2024-01-31 13:42:28,728 Re-ID INFO: 71.4%	69.1%	58.1%
+2024-01-31 13:42:28,728 Re-ID INFO: Avg ACC: 66.2%
+2024-01-31 13:42:28,728 Re-ID INFO: The best model
+2024-01-31 13:42:28,728 Re-ID INFO: /root/Re-ID-AGW/QSD/log/Best_Model.pth
+2024-01-31 13:42:28,729 Re-ID INFO: 71.4%	69.1%	58.1%
+2024-01-31 13:42:28,729 Re-ID INFO: Avg ACC: 66.2%
+2024-01-31 13:42:28,993 Re-ID INFO: ----------
+2024-01-31 13:42:34,407 Re-ID INFO: Epoch[171] Iteration[80/93] Loss: 1.333, CLS_Loss: 1.064, QSD_Loss: 0.269, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:42:44,763 Re-ID INFO: Epoch[171] Iteration[20/93] Loss: 1.340, CLS_Loss: 1.069, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:42:50,209 Re-ID INFO: Epoch[171] Iteration[40/93] Loss: 1.339, CLS_Loss: 1.069, QSD_Loss: 0.270, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:42:55,599 Re-ID INFO: Epoch[171] Iteration[60/93] Loss: 1.340, CLS_Loss: 1.071, QSD_Loss: 0.269, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:42:56,667 Re-ID INFO: Epoch 171 done. Time per batch: 24.496[s] Speed: 245.6[samples/s]
+2024-01-31 13:42:56,667 Re-ID INFO: ----------
+2024-01-31 13:43:01,798 Re-ID INFO: Epoch[172] Iteration[80/93] Loss: 1.324, CLS_Loss: 1.072, QSD_Loss: 0.252, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:43:12,006 Re-ID INFO: Epoch[172] Iteration[20/93] Loss: 1.339, CLS_Loss: 1.075, QSD_Loss: 0.265, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:43:17,408 Re-ID INFO: Epoch[172] Iteration[40/93] Loss: 1.341, CLS_Loss: 1.075, QSD_Loss: 0.266, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:43:22,810 Re-ID INFO: Epoch[172] Iteration[60/93] Loss: 1.340, CLS_Loss: 1.074, QSD_Loss: 0.266, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:43:23,917 Re-ID INFO: Epoch 172 done. Time per batch: 24.455[s] Speed: 246.0[samples/s]
+2024-01-31 13:43:23,918 Re-ID INFO: ----------
+2024-01-31 13:43:28,780 Re-ID INFO: Epoch[173] Iteration[80/93] Loss: 1.350, CLS_Loss: 1.069, QSD_Loss: 0.280, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:43:39,044 Re-ID INFO: Epoch[173] Iteration[20/93] Loss: 1.346, CLS_Loss: 1.070, QSD_Loss: 0.277, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:43:44,445 Re-ID INFO: Epoch[173] Iteration[40/93] Loss: 1.346, CLS_Loss: 1.072, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:43:49,856 Re-ID INFO: Epoch[173] Iteration[60/93] Loss: 1.348, CLS_Loss: 1.076, QSD_Loss: 0.272, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:43:51,284 Re-ID INFO: Epoch 173 done. Time per batch: 24.471[s] Speed: 245.8[samples/s]
+2024-01-31 13:43:51,285 Re-ID INFO: ----------
+2024-01-31 13:43:55,881 Re-ID INFO: Epoch[174] Iteration[80/93] Loss: 1.330, CLS_Loss: 1.069, QSD_Loss: 0.261, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:44:06,197 Re-ID INFO: Epoch[174] Iteration[20/93] Loss: 1.338, CLS_Loss: 1.072, QSD_Loss: 0.265, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:44:11,632 Re-ID INFO: Epoch[174] Iteration[40/93] Loss: 1.342, CLS_Loss: 1.074, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:44:17,048 Re-ID INFO: Epoch[174] Iteration[60/93] Loss: 1.343, CLS_Loss: 1.072, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:44:18,745 Re-ID INFO: Epoch 174 done. Time per batch: 24.545[s] Speed: 245.1[samples/s]
+2024-01-31 13:44:18,745 Re-ID INFO: ----------
+2024-01-31 13:44:23,089 Re-ID INFO: Epoch[175] Iteration[80/93] Loss: 1.324, CLS_Loss: 1.065, QSD_Loss: 0.260, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:44:33,398 Re-ID INFO: Epoch[175] Iteration[20/93] Loss: 1.334, CLS_Loss: 1.068, QSD_Loss: 0.266, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:44:38,803 Re-ID INFO: Epoch[175] Iteration[40/93] Loss: 1.334, CLS_Loss: 1.069, QSD_Loss: 0.265, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:44:44,189 Re-ID INFO: Epoch[175] Iteration[60/93] Loss: 1.337, CLS_Loss: 1.072, QSD_Loss: 0.265, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:44:46,105 Re-ID INFO: Epoch 175 done. Time per batch: 24.443[s] Speed: 246.1[samples/s]
+2024-01-31 13:44:46,105 Re-ID INFO: ----------
+2024-01-31 13:44:53,239 Re-ID INFO: Rank-1: 70.9%
+2024-01-31 13:44:53,239 Re-ID INFO: mAP: 68.9%
+2024-01-31 13:44:53,239 Re-ID INFO: mINP: 58.0%
+2024-01-31 13:44:53,240 Re-ID INFO: 70.9%	68.9%	58.0%
+2024-01-31 13:44:53,240 Re-ID INFO: Avg ACC: 65.9%
+2024-01-31 13:44:53,240 Re-ID INFO: ----------
+2024-01-31 13:44:57,307 Re-ID INFO: Epoch[176] Iteration[80/93] Loss: 1.344, CLS_Loss: 1.065, QSD_Loss: 0.279, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:45:07,599 Re-ID INFO: Epoch[176] Iteration[20/93] Loss: 1.345, CLS_Loss: 1.070, QSD_Loss: 0.275, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:45:12,982 Re-ID INFO: Epoch[176] Iteration[40/93] Loss: 1.344, CLS_Loss: 1.070, QSD_Loss: 0.273, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:45:18,369 Re-ID INFO: Epoch[176] Iteration[60/93] Loss: 1.342, CLS_Loss: 1.070, QSD_Loss: 0.272, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:45:20,623 Re-ID INFO: Epoch 176 done. Time per batch: 24.409[s] Speed: 246.5[samples/s]
+2024-01-31 13:45:20,623 Re-ID INFO: ----------
+2024-01-31 13:45:24,425 Re-ID INFO: Epoch[177] Iteration[80/93] Loss: 1.359, CLS_Loss: 1.072, QSD_Loss: 0.287, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:45:34,742 Re-ID INFO: Epoch[177] Iteration[20/93] Loss: 1.351, CLS_Loss: 1.073, QSD_Loss: 0.278, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:45:40,133 Re-ID INFO: Epoch[177] Iteration[40/93] Loss: 1.347, CLS_Loss: 1.074, QSD_Loss: 0.273, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:45:45,526 Re-ID INFO: Epoch[177] Iteration[60/93] Loss: 1.348, CLS_Loss: 1.075, QSD_Loss: 0.273, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:45:47,947 Re-ID INFO: Epoch 177 done. Time per batch: 24.469[s] Speed: 245.9[samples/s]
+2024-01-31 13:45:47,947 Re-ID INFO: ----------
+2024-01-31 13:45:51,457 Re-ID INFO: Epoch[178] Iteration[80/93] Loss: 1.349, CLS_Loss: 1.068, QSD_Loss: 0.281, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:46:01,788 Re-ID INFO: Epoch[178] Iteration[20/93] Loss: 1.348, CLS_Loss: 1.071, QSD_Loss: 0.277, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:46:07,232 Re-ID INFO: Epoch[178] Iteration[40/93] Loss: 1.349, CLS_Loss: 1.074, QSD_Loss: 0.275, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:46:12,647 Re-ID INFO: Epoch[178] Iteration[60/93] Loss: 1.350, CLS_Loss: 1.074, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:46:15,495 Re-ID INFO: Epoch 178 done. Time per batch: 24.532[s] Speed: 245.2[samples/s]
+2024-01-31 13:46:15,495 Re-ID INFO: ----------
+2024-01-31 13:46:18,744 Re-ID INFO: Epoch[179] Iteration[80/93] Loss: 1.338, CLS_Loss: 1.078, QSD_Loss: 0.260, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:46:29,076 Re-ID INFO: Epoch[179] Iteration[20/93] Loss: 1.340, CLS_Loss: 1.075, QSD_Loss: 0.265, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:46:34,535 Re-ID INFO: Epoch[179] Iteration[40/93] Loss: 1.340, CLS_Loss: 1.074, QSD_Loss: 0.265, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:46:39,953 Re-ID INFO: Epoch[179] Iteration[60/93] Loss: 1.343, CLS_Loss: 1.074, QSD_Loss: 0.269, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:46:42,965 Re-ID INFO: Epoch 179 done. Time per batch: 24.525[s] Speed: 245.3[samples/s]
+2024-01-31 13:46:42,965 Re-ID INFO: ----------
+2024-01-31 13:46:45,948 Re-ID INFO: Epoch[180] Iteration[80/93] Loss: 1.337, CLS_Loss: 1.085, QSD_Loss: 0.252, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:46:56,273 Re-ID INFO: Epoch[180] Iteration[20/93] Loss: 1.336, CLS_Loss: 1.078, QSD_Loss: 0.258, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:47:01,733 Re-ID INFO: Epoch[180] Iteration[40/93] Loss: 1.338, CLS_Loss: 1.076, QSD_Loss: 0.262, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:47:07,133 Re-ID INFO: Epoch[180] Iteration[60/93] Loss: 1.340, CLS_Loss: 1.076, QSD_Loss: 0.264, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:47:10,447 Re-ID INFO: Epoch 180 done. Time per batch: 24.537[s] Speed: 245.2[samples/s]
+2024-01-31 13:47:10,448 Re-ID INFO: ----------
+2024-01-31 13:47:17,640 Re-ID INFO: Rank-1: 71.9%
+2024-01-31 13:47:17,640 Re-ID INFO: mAP: 69.1%
+2024-01-31 13:47:17,641 Re-ID INFO: mINP: 58.0%
+2024-01-31 13:47:17,641 Re-ID INFO: 71.9%	69.1%	58.0%
+2024-01-31 13:47:17,641 Re-ID INFO: Avg ACC: 66.3%
+2024-01-31 13:47:17,642 Re-ID INFO: The best model
+2024-01-31 13:47:17,642 Re-ID INFO: /root/Re-ID-AGW/QSD/log/Best_Model.pth
+2024-01-31 13:47:17,642 Re-ID INFO: 71.9%	69.1%	58.0%
+2024-01-31 13:47:17,642 Re-ID INFO: Avg ACC: 66.3%
+2024-01-31 13:47:17,878 Re-ID INFO: ----------
+2024-01-31 13:47:20,583 Re-ID INFO: Epoch[181] Iteration[80/93] Loss: 1.378, CLS_Loss: 1.087, QSD_Loss: 0.291, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:47:30,841 Re-ID INFO: Epoch[181] Iteration[20/93] Loss: 1.363, CLS_Loss: 1.081, QSD_Loss: 0.282, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:47:36,213 Re-ID INFO: Epoch[181] Iteration[40/93] Loss: 1.356, CLS_Loss: 1.078, QSD_Loss: 0.278, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:47:41,636 Re-ID INFO: Epoch[181] Iteration[60/93] Loss: 1.352, CLS_Loss: 1.076, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:47:45,225 Re-ID INFO: Epoch 181 done. Time per batch: 24.443[s] Speed: 246.1[samples/s]
+2024-01-31 13:47:45,225 Re-ID INFO: ----------
+2024-01-31 13:47:47,666 Re-ID INFO: Epoch[182] Iteration[80/93] Loss: 1.407, CLS_Loss: 1.115, QSD_Loss: 0.292, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:47:57,954 Re-ID INFO: Epoch[182] Iteration[20/93] Loss: 1.375, CLS_Loss: 1.095, QSD_Loss: 0.280, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:48:03,346 Re-ID INFO: Epoch[182] Iteration[40/93] Loss: 1.364, CLS_Loss: 1.088, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:48:08,743 Re-ID INFO: Epoch[182] Iteration[60/93] Loss: 1.355, CLS_Loss: 1.081, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:48:12,563 Re-ID INFO: Epoch 182 done. Time per batch: 24.475[s] Speed: 245.8[samples/s]
+2024-01-31 13:48:12,563 Re-ID INFO: ----------
+2024-01-31 13:48:14,720 Re-ID INFO: Epoch[183] Iteration[80/93] Loss: 1.340, CLS_Loss: 1.081, QSD_Loss: 0.260, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:48:25,035 Re-ID INFO: Epoch[183] Iteration[20/93] Loss: 1.343, CLS_Loss: 1.077, QSD_Loss: 0.266, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:48:30,436 Re-ID INFO: Epoch[183] Iteration[40/93] Loss: 1.344, CLS_Loss: 1.076, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:48:35,819 Re-ID INFO: Epoch[183] Iteration[60/93] Loss: 1.345, CLS_Loss: 1.076, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:48:39,876 Re-ID INFO: Epoch 183 done. Time per batch: 24.453[s] Speed: 246.0[samples/s]
+2024-01-31 13:48:39,877 Re-ID INFO: ----------
+2024-01-31 13:48:41,766 Re-ID INFO: Epoch[184] Iteration[80/93] Loss: 1.304, CLS_Loss: 1.059, QSD_Loss: 0.245, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:48:52,024 Re-ID INFO: Epoch[184] Iteration[20/93] Loss: 1.325, CLS_Loss: 1.067, QSD_Loss: 0.258, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:48:57,400 Re-ID INFO: Epoch[184] Iteration[40/93] Loss: 1.333, CLS_Loss: 1.070, QSD_Loss: 0.263, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:49:02,781 Re-ID INFO: Epoch[184] Iteration[60/93] Loss: 1.336, CLS_Loss: 1.070, QSD_Loss: 0.265, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:49:07,162 Re-ID INFO: Epoch 184 done. Time per batch: 24.406[s] Speed: 246.5[samples/s]
+2024-01-31 13:49:07,162 Re-ID INFO: ----------
+2024-01-31 13:49:08,782 Re-ID INFO: Epoch[185] Iteration[80/93] Loss: 1.347, CLS_Loss: 1.078, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:49:19,013 Re-ID INFO: Epoch[185] Iteration[20/93] Loss: 1.347, CLS_Loss: 1.075, QSD_Loss: 0.272, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:49:24,381 Re-ID INFO: Epoch[185] Iteration[40/93] Loss: 1.348, CLS_Loss: 1.075, QSD_Loss: 0.273, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:49:29,754 Re-ID INFO: Epoch[185] Iteration[60/93] Loss: 1.344, CLS_Loss: 1.073, QSD_Loss: 0.270, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:49:34,573 Re-ID INFO: Epoch 185 done. Time per batch: 24.387[s] Speed: 246.7[samples/s]
+2024-01-31 13:49:34,573 Re-ID INFO: ----------
+2024-01-31 13:49:41,762 Re-ID INFO: Rank-1: 70.9%
+2024-01-31 13:49:41,763 Re-ID INFO: mAP: 68.7%
+2024-01-31 13:49:41,763 Re-ID INFO: mINP: 57.6%
+2024-01-31 13:49:41,764 Re-ID INFO: 70.9%	68.7%	57.6%
+2024-01-31 13:49:41,764 Re-ID INFO: Avg ACC: 65.7%
+2024-01-31 13:49:41,764 Re-ID INFO: ----------
+2024-01-31 13:49:43,117 Re-ID INFO: Epoch[186] Iteration[80/93] Loss: 1.340, CLS_Loss: 1.069, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:49:53,438 Re-ID INFO: Epoch[186] Iteration[20/93] Loss: 1.341, CLS_Loss: 1.072, QSD_Loss: 0.269, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:49:58,835 Re-ID INFO: Epoch[186] Iteration[40/93] Loss: 1.344, CLS_Loss: 1.074, QSD_Loss: 0.270, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:50:04,233 Re-ID INFO: Epoch[186] Iteration[60/93] Loss: 1.344, CLS_Loss: 1.073, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:50:09,154 Re-ID INFO: Epoch 186 done. Time per batch: 24.447[s] Speed: 246.1[samples/s]
+2024-01-31 13:50:09,155 Re-ID INFO: ----------
+2024-01-31 13:50:10,238 Re-ID INFO: Epoch[187] Iteration[80/93] Loss: 1.325, CLS_Loss: 1.072, QSD_Loss: 0.253, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:50:20,609 Re-ID INFO: Epoch[187] Iteration[20/93] Loss: 1.334, CLS_Loss: 1.073, QSD_Loss: 0.262, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:50:26,015 Re-ID INFO: Epoch[187] Iteration[40/93] Loss: 1.340, CLS_Loss: 1.074, QSD_Loss: 0.266, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:50:31,421 Re-ID INFO: Epoch[187] Iteration[60/93] Loss: 1.341, CLS_Loss: 1.073, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:50:36,648 Re-ID INFO: Epoch 187 done. Time per batch: 24.454[s] Speed: 246.0[samples/s]
+2024-01-31 13:50:36,649 Re-ID INFO: ----------
+2024-01-31 13:50:37,462 Re-ID INFO: Epoch[188] Iteration[80/93] Loss: 1.365, CLS_Loss: 1.104, QSD_Loss: 0.260, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:50:47,845 Re-ID INFO: Epoch[188] Iteration[20/93] Loss: 1.353, CLS_Loss: 1.089, QSD_Loss: 0.264, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:50:53,252 Re-ID INFO: Epoch[188] Iteration[40/93] Loss: 1.347, CLS_Loss: 1.082, QSD_Loss: 0.265, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:50:58,654 Re-ID INFO: Epoch[188] Iteration[60/93] Loss: 1.350, CLS_Loss: 1.082, QSD_Loss: 0.269, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:51:04,102 Re-ID INFO: Epoch 188 done. Time per batch: 24.409[s] Speed: 246.5[samples/s]
+2024-01-31 13:51:04,102 Re-ID INFO: ----------
+2024-01-31 13:51:04,644 Re-ID INFO: Epoch[189] Iteration[80/93] Loss: 1.291, CLS_Loss: 1.055, QSD_Loss: 0.236, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:51:14,956 Re-ID INFO: Epoch[189] Iteration[20/93] Loss: 1.316, CLS_Loss: 1.064, QSD_Loss: 0.252, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:51:20,376 Re-ID INFO: Epoch[189] Iteration[40/93] Loss: 1.324, CLS_Loss: 1.069, QSD_Loss: 0.256, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:51:25,774 Re-ID INFO: Epoch[189] Iteration[60/93] Loss: 1.331, CLS_Loss: 1.070, QSD_Loss: 0.260, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:51:31,445 Re-ID INFO: Epoch 189 done. Time per batch: 24.416[s] Speed: 246.4[samples/s]
+2024-01-31 13:51:31,445 Re-ID INFO: ----------
+2024-01-31 13:51:31,717 Re-ID INFO: Epoch[190] Iteration[80/93] Loss: 1.358, CLS_Loss: 1.081, QSD_Loss: 0.277, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:51:42,069 Re-ID INFO: Epoch[190] Iteration[20/93] Loss: 1.349, CLS_Loss: 1.077, QSD_Loss: 0.273, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:51:47,490 Re-ID INFO: Epoch[190] Iteration[40/93] Loss: 1.348, CLS_Loss: 1.077, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:51:52,876 Re-ID INFO: Epoch[190] Iteration[60/93] Loss: 1.350, CLS_Loss: 1.078, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:51:58,258 Re-ID INFO: Epoch[190] Iteration[80/93] Loss: 1.347, CLS_Loss: 1.077, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:51:58,919 Re-ID INFO: Epoch 190 done. Time per batch: 24.430[s] Speed: 246.3[samples/s]
+2024-01-31 13:51:58,919 Re-ID INFO: ----------
+2024-01-31 13:52:06,055 Re-ID INFO: Rank-1: 71.2%
+2024-01-31 13:52:06,056 Re-ID INFO: mAP: 69.0%
+2024-01-31 13:52:06,057 Re-ID INFO: mINP: 58.1%
+2024-01-31 13:52:06,057 Re-ID INFO: 71.2%	69.0%	58.1%
+2024-01-31 13:52:06,057 Re-ID INFO: Avg ACC: 66.1%
+2024-01-31 13:52:06,057 Re-ID INFO: ----------
+2024-01-31 13:52:16,306 Re-ID INFO: Epoch[191] Iteration[20/93] Loss: 1.335, CLS_Loss: 1.067, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:52:21,696 Re-ID INFO: Epoch[191] Iteration[40/93] Loss: 1.339, CLS_Loss: 1.071, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:52:27,081 Re-ID INFO: Epoch[191] Iteration[60/93] Loss: 1.339, CLS_Loss: 1.072, QSD_Loss: 0.267, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:52:32,474 Re-ID INFO: Epoch[191] Iteration[80/93] Loss: 1.340, CLS_Loss: 1.073, QSD_Loss: 0.267, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:52:33,351 Re-ID INFO: Epoch 191 done. Time per batch: 24.423[s] Speed: 246.3[samples/s]
+2024-01-31 13:52:33,351 Re-ID INFO: ----------
+2024-01-31 13:52:43,369 Re-ID INFO: Epoch[192] Iteration[20/93] Loss: 1.333, CLS_Loss: 1.060, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:52:48,809 Re-ID INFO: Epoch[192] Iteration[40/93] Loss: 1.337, CLS_Loss: 1.063, QSD_Loss: 0.273, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:52:54,241 Re-ID INFO: Epoch[192] Iteration[60/93] Loss: 1.343, CLS_Loss: 1.068, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:52:59,652 Re-ID INFO: Epoch[192] Iteration[80/93] Loss: 1.343, CLS_Loss: 1.072, QSD_Loss: 0.271, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:53:00,802 Re-ID INFO: Epoch 192 done. Time per batch: 24.590[s] Speed: 244.7[samples/s]
+2024-01-31 13:53:00,802 Re-ID INFO: ----------
+2024-01-31 13:53:10,563 Re-ID INFO: Epoch[193] Iteration[20/93] Loss: 1.347, CLS_Loss: 1.082, QSD_Loss: 0.265, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:53:15,981 Re-ID INFO: Epoch[193] Iteration[40/93] Loss: 1.348, CLS_Loss: 1.080, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:53:21,408 Re-ID INFO: Epoch[193] Iteration[60/93] Loss: 1.350, CLS_Loss: 1.081, QSD_Loss: 0.269, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:53:26,822 Re-ID INFO: Epoch[193] Iteration[80/93] Loss: 1.345, CLS_Loss: 1.077, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:53:28,233 Re-ID INFO: Epoch 193 done. Time per batch: 24.544[s] Speed: 245.1[samples/s]
+2024-01-31 13:53:28,233 Re-ID INFO: ----------
+2024-01-31 13:53:37,779 Re-ID INFO: Epoch[194] Iteration[20/93] Loss: 1.323, CLS_Loss: 1.061, QSD_Loss: 0.261, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:53:43,181 Re-ID INFO: Epoch[194] Iteration[40/93] Loss: 1.332, CLS_Loss: 1.068, QSD_Loss: 0.264, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:53:48,581 Re-ID INFO: Epoch[194] Iteration[60/93] Loss: 1.334, CLS_Loss: 1.069, QSD_Loss: 0.265, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:53:54,017 Re-ID INFO: Epoch[194] Iteration[80/93] Loss: 1.335, CLS_Loss: 1.069, QSD_Loss: 0.266, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:53:55,759 Re-ID INFO: Epoch 194 done. Time per batch: 24.504[s] Speed: 245.5[samples/s]
+2024-01-31 13:53:55,760 Re-ID INFO: ----------
+2024-01-31 13:54:04,969 Re-ID INFO: Epoch[195] Iteration[20/93] Loss: 1.334, CLS_Loss: 1.070, QSD_Loss: 0.264, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:54:10,396 Re-ID INFO: Epoch[195] Iteration[40/93] Loss: 1.332, CLS_Loss: 1.070, QSD_Loss: 0.262, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:54:15,825 Re-ID INFO: Epoch[195] Iteration[60/93] Loss: 1.334, CLS_Loss: 1.070, QSD_Loss: 0.264, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:54:21,273 Re-ID INFO: Epoch[195] Iteration[80/93] Loss: 1.337, CLS_Loss: 1.071, QSD_Loss: 0.266, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:54:23,258 Re-ID INFO: Epoch 195 done. Time per batch: 24.527[s] Speed: 245.3[samples/s]
+2024-01-31 13:54:23,259 Re-ID INFO: ----------
+2024-01-31 13:54:30,388 Re-ID INFO: Rank-1: 71.6%
+2024-01-31 13:54:30,390 Re-ID INFO: mAP: 69.1%
+2024-01-31 13:54:30,390 Re-ID INFO: mINP: 58.1%
+2024-01-31 13:54:30,390 Re-ID INFO: 71.6%	69.1%	58.1%
+2024-01-31 13:54:30,390 Re-ID INFO: Avg ACC: 66.3%
+2024-01-31 13:54:30,390 Re-ID INFO: ----------
+2024-01-31 13:54:39,331 Re-ID INFO: Epoch[196] Iteration[20/93] Loss: 1.389, CLS_Loss: 1.093, QSD_Loss: 0.297, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:54:44,748 Re-ID INFO: Epoch[196] Iteration[40/93] Loss: 1.373, CLS_Loss: 1.085, QSD_Loss: 0.288, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:54:50,160 Re-ID INFO: Epoch[196] Iteration[60/93] Loss: 1.364, CLS_Loss: 1.082, QSD_Loss: 0.282, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:54:55,571 Re-ID INFO: Epoch[196] Iteration[80/93] Loss: 1.355, CLS_Loss: 1.079, QSD_Loss: 0.276, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:54:57,972 Re-ID INFO: Epoch 196 done. Time per batch: 24.472[s] Speed: 245.8[samples/s]
+2024-01-31 13:54:57,972 Re-ID INFO: ----------
+2024-01-31 13:55:06,687 Re-ID INFO: Epoch[197] Iteration[20/93] Loss: 1.325, CLS_Loss: 1.075, QSD_Loss: 0.249, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:55:12,078 Re-ID INFO: Epoch[197] Iteration[40/93] Loss: 1.331, CLS_Loss: 1.075, QSD_Loss: 0.257, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:55:17,474 Re-ID INFO: Epoch[197] Iteration[60/93] Loss: 1.334, CLS_Loss: 1.075, QSD_Loss: 0.260, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:55:22,870 Re-ID INFO: Epoch[197] Iteration[80/93] Loss: 1.335, CLS_Loss: 1.073, QSD_Loss: 0.261, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:55:25,415 Re-ID INFO: Epoch 197 done. Time per batch: 24.409[s] Speed: 246.5[samples/s]
+2024-01-31 13:55:25,416 Re-ID INFO: ----------
+2024-01-31 13:55:33,881 Re-ID INFO: Epoch[198] Iteration[20/93] Loss: 1.306, CLS_Loss: 1.065, QSD_Loss: 0.242, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:55:39,260 Re-ID INFO: Epoch[198] Iteration[40/93] Loss: 1.318, CLS_Loss: 1.068, QSD_Loss: 0.250, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:55:44,622 Re-ID INFO: Epoch[198] Iteration[60/93] Loss: 1.325, CLS_Loss: 1.069, QSD_Loss: 0.256, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:55:49,987 Re-ID INFO: Epoch[198] Iteration[80/93] Loss: 1.332, CLS_Loss: 1.071, QSD_Loss: 0.261, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:55:52,773 Re-ID INFO: Epoch 198 done. Time per batch: 24.406[s] Speed: 246.5[samples/s]
+2024-01-31 13:55:52,773 Re-ID INFO: ----------
+2024-01-31 13:56:00,939 Re-ID INFO: Epoch[199] Iteration[20/93] Loss: 1.384, CLS_Loss: 1.092, QSD_Loss: 0.292, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:56:06,316 Re-ID INFO: Epoch[199] Iteration[40/93] Loss: 1.368, CLS_Loss: 1.086, QSD_Loss: 0.282, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:56:11,710 Re-ID INFO: Epoch[199] Iteration[60/93] Loss: 1.362, CLS_Loss: 1.083, QSD_Loss: 0.279, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:56:17,115 Re-ID INFO: Epoch[199] Iteration[80/93] Loss: 1.353, CLS_Loss: 1.079, QSD_Loss: 0.274, Acc: 1.000, LR: 3.50e-07
+2024-01-31 13:56:20,165 Re-ID INFO: Epoch 199 done. Time per batch: 24.431[s] Speed: 246.2[samples/s]
+2024-01-31 13:56:20,166 Re-ID INFO: ----------
+2024-01-31 13:56:28,122 Re-ID INFO: Epoch[200] Iteration[20/93] Loss: 1.340, CLS_Loss: 1.074, QSD_Loss: 0.266, Acc: 1.000, LR: 3.50e-08
+2024-01-31 13:56:33,510 Re-ID INFO: Epoch[200] Iteration[40/93] Loss: 1.340, CLS_Loss: 1.073, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-08
+2024-01-31 13:56:38,889 Re-ID INFO: Epoch[200] Iteration[60/93] Loss: 1.341, CLS_Loss: 1.074, QSD_Loss: 0.267, Acc: 1.000, LR: 3.50e-08
+2024-01-31 13:56:44,255 Re-ID INFO: Epoch[200] Iteration[80/93] Loss: 1.341, CLS_Loss: 1.073, QSD_Loss: 0.268, Acc: 1.000, LR: 3.50e-08
+2024-01-31 13:56:47,538 Re-ID INFO: Epoch 200 done. Time per batch: 24.395[s] Speed: 246.6[samples/s]
+2024-01-31 13:56:47,538 Re-ID INFO: ----------
+2024-01-31 13:56:54,729 Re-ID INFO: Rank-1: 70.6%
+2024-01-31 13:56:54,730 Re-ID INFO: mAP: 68.8%
+2024-01-31 13:56:54,730 Re-ID INFO: mINP: 58.0%
+2024-01-31 13:56:54,730 Re-ID INFO: 70.6%	68.8%	58.0%
+2024-01-31 13:56:54,731 Re-ID INFO: Avg ACC: 65.8%
+2024-01-31 13:56:54,731 Re-ID INFO: ----------

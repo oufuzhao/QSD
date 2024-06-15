@@ -27,13 +27,12 @@ The code is built on the PyTorch framework, and the explicit environment configu
 If you find this code useful in your research, please consider citing us:
 ```
 @ARTICLE{QSD2024,
-    author={Ou, Fu-Zhao and Chen, Xingyu and Zhao, Kai and Wang, Shiqi and Wang, Yuan-Gen and Kwong, Sam},
-    title={Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification},
-    journal={IEEE Transactions on Multimedia (TMM)},
-    volume={},
-    number={},
-    pages={1-15},
-    year={2024},
-    doi={10.1109/TMM.2024.3358697}
+  author={Ou, Fu-Zhao and Chen, Xingyu and Zhao, Kai and Wang, Shiqi and Wang, Yuan-Gen and Kwong, Sam},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Refining Uncertain Features With Self-Distillation for Face Recognition and Person Re-Identification}, 
+  year={2024},
+  volume={26},
+  pages={6981-6995},
+  doi={10.1109/TMM.2024.3358697}}
 }
 ```

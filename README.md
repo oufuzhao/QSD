@@ -20,7 +20,7 @@ The code is built on the PyTorch framework, and the explicit environment configu
 
 ## Inference
 1. You can download the QSD model trained on the CUHK03 dataset at the [Google Disk](https://drive.google.com/file/d/1lhNdtQ-tKvT3iXi9QbZGIATIYSRU8XA-/view).
-2. Modify the 'PRETRAIN_PATH' and 'WEIGHT' parameters in the configuration file './configs/AGW_QSD.yml'.
+2. Modify the 'EVALUATE_ONLY' and 'WEIGHT' parameters in the configuration file './configs/AGW_QSD.yml'.
 3. Run './main.py'
 
 ## Citing this Repository

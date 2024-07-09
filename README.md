@@ -19,11 +19,24 @@ The code is built on the PyTorch framework, and the explicit environment configu
 4. **QSD processing**: a). Modify the 'PRETRAIN_PATH' and 'QA_LABELS' parameters in the configuration file './configs/AGW_QSD.yml'; b). Run './main.py' to train the QSD model, where we also provide the training log in './log/log.txt' for your information. 
 
 ## Inference
+
 1. You can download the QSD model trained on the CUHK03 dataset at the [Google Disk](https://drive.google.com/file/d/1lhNdtQ-tKvT3iXi9QbZGIATIYSRU8XA-/view).
-2. Modify the 'PRETRAIN_PATH' and 'WEIGHT' parameters in the configuration file './configs/AGW_QSD.yml'.
+2. Modify the 'EVALUATE_ONLY' and 'WEIGHT' parameters in the configuration file './configs/AGW_QSD.yml'.
 3. Run './main.py'
 
+## Models
+
+- We also release different QSD models trained on other datasets. You can download the explicit checkpoint via the URL in the table below.
+
+|   Datasets    | Rank-1 |  mAP  | mINP  |                             URL                              |
+| :-----------: | :----: | :---: | :---: | :----------------------------------------------------------: |
+|  Market1501   | 96.1%  | 88.7% | 66.8% | [Google Disk](https://drive.google.com/file/d/1tm0fLL8YLuRBILd4_qzKK3Jn_9RA8YG8/view?usp=drive_link) |
+| DukeMTMC-reID | 89.4%  | 79.9% | 46.0% | [Google Disk](https://drive.google.com/file/d/17bKo4GbDe1GqwnCKfA8H84o9TGQO6NlP/view?usp=drive_link) |
+|   MSMT17-V1   | 70.7%  | 52.3% | 16.6% | [Google Disk](https://drive.google.com/file/d/1ZiEcYZG0Znz5iMG2sOx5rtJwXNqDvUFa/view?usp=drive_link) |
+|   MSMT17-V2   | 79.2%  | 56.4% | 13.6% | [Google Disk](https://drive.google.com/file/d/1UTZRi637MknOAdgMCcYvbhX3XHosuwQg/view?usp=drive_link) |
+
 ## Citing this Repository
+
 If you find this code useful in your research, please consider citing us:
 ```
 @ARTICLE{QSD2024,

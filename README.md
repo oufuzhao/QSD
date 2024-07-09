@@ -35,6 +35,8 @@ The code is built on the PyTorch framework, and the explicit environment configu
 |   MSMT17-V1   | 70.7%  | 52.3% | 16.6% | [Google Disk](https://drive.google.com/file/d/1ZiEcYZG0Znz5iMG2sOx5rtJwXNqDvUFa/view?usp=drive_link) |
 |   MSMT17-V2   | 79.2%  | 56.4% | 13.6% | [Google Disk](https://drive.google.com/file/d/1UTZRi637MknOAdgMCcYvbhX3XHosuwQg/view?usp=drive_link) |
 
+It is worth mentioning that the MSMT17 result we reported in our paper is MSMT17-V2, while the [result of the official AGW](https://github.com/mangye16/ReID-Survey) model is MSMT17-V1.
+
 ## Citing this Repository
 
 If you find this code useful in your research, please consider citing us:
